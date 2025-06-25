@@ -22,7 +22,7 @@ repository               : "fferdaus/portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "fferdaus.JPG"
   name             : "Farah Ferdaus"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher @MCS Division, ANL"
