@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+[Farah is a Postdoctoral Researcher in the Mathematics and Computer Science (MCS) Division at Argonne National Laboratory, where her research centers on evaluating the energy efficiency of AI accelerators in machine learning applications. This includes GPUs from Nvidia, AMD, and Intel, as well as specialized AI accelerators like Intel Habana Gaudi, Graphcore, Groq, and others. She is involved in several projects centered on benchmarking the power and performance of deep learning models across various AI hardware platforms. 
+
+She earned her Ph.D. in Fall 2022 from the Department of Electrical and Computer Engineering at Florida International University, and her M.Sc. in Fall 2018 from the University of New Hampshire. Earlier, Farah received her B.Sc. in Electrical and Electronic Engineering from the Bangladesh University of Engineering and Technology (BUET) in September 2015.
+
+She has published numerous scientific articles, including journals, conference papers, and book chapters, on esteemed platforms. Her research works are showcased in premier ACM/IEEE journals and conferences, including the SC Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis, EEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid), IEEE Transactions on Information Forensics and Security (TIFS), ACM Journal on Emerging Technologies in Computing Systems, IEEE Transactions on Computers (TC), and IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI). Her research interests include high-performance computer architecture, energy-efficient computing, hardware security, cybersecurity, and memory systems, etc. Her PhD research specifically concentrated on hardware security and emerging memory systems. More details can be can be found in her CV.
 
 A data-driven personal website
 ======
@@ -46,4 +50,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.](https://github.com/anindyabijoydas/portfolio/blob/main/_pages/about.md#:~:text=I%20am%20currently,my%20CV.)
