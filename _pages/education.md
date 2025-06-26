@@ -11,30 +11,15 @@ redirect_from:
 <!--## Work Experience-->
 
 
-<!--### Postdoctoral Researcher (February 2023 – Present) 
-**Mathematics and Computer Science (MCS) Division**  
-*Argonne National Laboratory, IL, USA*  
-📅 **February 2023 – Present**-->
-
-- **Postdoctoral Researcher (February 2023 – Present)**  
-*Mathematics and Computer Science (MCS) Division*  
-**Argonne National Laboratory, IL, USA**
+- **Ph.D. in Electrical and Computer Engineering**  
+**Florida International University, Fall 2022**
 
 
-- **Graduate Assistant (January 2021 - December 2022)**  
-*Electrical and Computer Engineering*  
-**Florida International University, FL, USA**
+- **M.Sc. in Electrical and Computer Engineering**  
+**University of New Hampshire, Fall 2018**
 
 
-- **Graduate Teaching and Research Assistant (January 2019 - December 2020)**  
-*Electrical and Computer Engineering*  
-**University of Alabama in Huntsville, AL, USA**  
+- **B.Sc. in Electrical and Computer Engineering**  
+**Bangladesh University of Engineering and Technology, September 2015**
 
 
-- **Graduate Research and Teaching Assistant (August 2017 - December 2018)**  
-*Electrical and Computer Engineering*  
-**University of New Hampshire, NH, USA**  
-
-
-- **Electrical Safety Engineer (January 2016 - July 2017)**  
-**Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh**  
