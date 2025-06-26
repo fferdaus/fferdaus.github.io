@@ -20,6 +20,6 @@ redirect_from:
 
 
 - **B.Sc. in Electrical and Electronic Engineering**  
-*Bangladesh University of Engineering and Technology, September 2015*
+*Bangladesh University of Engineering and Technology (BUET), September 2015*
 
 
