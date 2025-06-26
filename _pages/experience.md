@@ -48,7 +48,7 @@ The University of Akron, OH, USA
 **Ph.D. in Electrical Engineering**  
 *Iowa State University, Spring 2022*  
 - **Major Professor:** Aditya Ramamoorthy  
-- **Minor:** Mathematics
+- **Minor:** Mathematics-->
 
 
 
