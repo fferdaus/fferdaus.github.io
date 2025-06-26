@@ -16,7 +16,7 @@ redirect_from:
 *Argonne National Laboratory, IL, USA*  
 <!--📅 **February 2023 – Present**-->
 
-**Postdoctoral Researcher (February 2023 – Present)**  
+- **Postdoctoral Researcher (February 2023 – Present)**  
 *Electrical and Computer Engineering*  
 **Argonne National Laboratory, IL, USA**
 
