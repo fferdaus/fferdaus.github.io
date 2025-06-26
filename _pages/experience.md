@@ -11,20 +11,19 @@ redirect_from:
 <!--## Work Experience-->
 
 
-### Postdoctoral Researcher (February 2023 – Present) 
+<!--### Postdoctoral Researcher (February 2023 – Present) 
 **Mathematics and Computer Science (MCS) Division**  
 *Argonne National Laboratory, IL, USA*  
-<!--📅 **February 2023 – Present**-->
+📅 **February 2023 – Present**-->
 
 - **Postdoctoral Researcher (February 2023 – Present)**  
 *Electrical and Computer Engineering*  
 **Argonne National Laboratory, IL, USA**
 
 
-### Graduate Assistant (January 2021 - December 2022)
-**Electrical and Computer Engineering**  
-*Florida International University, FL, USA*  
-<!--📅 **January 2021 - December 2022**-->
+- **Graduate Assistant (January 2021 - December 2022)**
+*Electrical and Computer Engineering*  
+**Florida International University, FL, USA**
 
 
 ### Graduate Teaching and Research Assistant (January 2019 - December 2020)
