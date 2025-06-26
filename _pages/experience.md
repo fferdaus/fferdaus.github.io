@@ -38,7 +38,6 @@ redirect_from:
 
 - **Electrical Safety Engineer (January 2016 - July 2017)**  
 **Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh**  
-<!--📅 **January 2016 - July 2017**-->
 
 
 
