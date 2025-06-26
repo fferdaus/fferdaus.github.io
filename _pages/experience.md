@@ -41,13 +41,9 @@ redirect_from:
 
 
 
-<!--Assistant Professor (August 2024 - Present)
-Electrical and Computer Engineering
-The University of Akron, OH, USA
-
-**Ph.D. in Electrical Engineering**  
+<!--**Ph.D. in Electrical Engineering**  
 *Iowa State University, Spring 2022*  
-- **Major Professor:** Aditya Ramamoorthy  
+- **Major Professor:** T Raman 
 - **Minor:** Mathematics-->
 
 
