@@ -20,12 +20,12 @@ See more info at https://academicpages.github.io/
 
 ## Running locally
 
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+<!--When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:-->
 
 1. Clone the repository and made updates as detailed above.
 
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
+<!--### Using a different IDE-->
+2. Make sure you have ruby-dev, bundler, and nodejs installed
     
     On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
     ```bash
