@@ -3,7 +3,7 @@
 
 A GitHub Pages template for Academic Pages personal and professional portfolio-oriented websites.
 
-<!--![Academic Pages template example](images/homepage.png "Academic Pages template example")-->
+<!--![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
 # Getting Started-->
 # Instructions
