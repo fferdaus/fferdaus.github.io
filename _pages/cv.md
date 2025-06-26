@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, Florida International University, December 2022
-* M.S. in Electrical and Computer Engineering, University of New Hampshire, December 2018
-* B.S. in Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology, September 2015
+* Ph.D. in Electrical and Computer Engineering, Florida International University, December 2022
+* M.Sc. in Electrical and Computer Engineering, University of New Hampshire, December 2018
+* B.Sc. in Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology, September 2015
 
 Work experience
 ======
