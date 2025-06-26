@@ -26,19 +26,18 @@ redirect_from:
 **Florida International University, FL, USA**
 
 
-### Graduate Teaching and Research Assistant (January 2019 - December 2020)
-**Electrical and Computer Engineering**  
-*University of Alabama in Huntsville, AL, USA*  
-<!--📅 **January 2019 - December 2020**-->
+- **Graduate Teaching and Research Assistant (January 2019 - December 2020)**  
+*Electrical and Computer Engineering*  
+**University of Alabama in Huntsville, AL, USA**  
 
 
-### Graduate Research and Teaching Assistant (August 2017 - December 2018)
-**Electrical and Computer Engineering**  
-*University of New Hampshire, NH, USA*  
-<!--📅 **August 2017 - December 2018**-->
+- **Graduate Research and Teaching Assistant (August 2017 - December 2018)**  
+*Electrical and Computer Engineering*  
+**University of New Hampshire, NH, USA**  
 
-### Electrical Safety Engineer (January 2016 - July 2017)
-*Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh*  
+
+- **Electrical Safety Engineer (January 2016 - July 2017)**  
+**Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh**  
 <!--📅 **January 2016 - July 2017**-->
 
 
