@@ -21,7 +21,7 @@ redirect_from:
 **Argonne National Laboratory, IL, USA**
 
 
-- **Graduate Assistant (January 2021 - December 2022)**
+- **Graduate Assistant (January 2021 - December 2022)** 
 *Electrical and Computer Engineering*  
 **Florida International University, FL, USA**
 
