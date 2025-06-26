@@ -12,11 +12,11 @@ redirect_from:
 
 
 - **Ph.D. in Electrical and Computer Engineering**  
-*Florida International University, Fall 2022*
+*Florida International University, December 2022*
 
 
 - **M.Sc. in Electrical and Computer Engineering**  
-*University of New Hampshire, Fall 2018*
+*University of New Hampshire, December 2018*
 
 
 - **B.Sc. in Electrical and Electronic Engineering**  
