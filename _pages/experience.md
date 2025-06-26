@@ -10,10 +10,9 @@ redirect_from:
 
 ## Work Experience
 
-### Postdoctoral Researcher
+***Postdoctoral Researcher (February 2023 – Present)***
 **Mathematics and Computer Science (MCS) Division**  
 *Argonne National Laboratory, IL, USA*  
-📅 **February 2023 – Present**
 
 
 
