@@ -10,34 +10,35 @@ redirect_from:
 
 ## Work Experience
 
-**Postdoctoral Researcher (February 2023 – Present)** 
-*Mathematics and Computer Science (MCS) Division* 
-**Argonne National Laboratory, IL, USA**  
 
-### Assistant Professor  
-**Department of Electrical and Computer Engineering**  
-*The University of Akron, OH, USA*  
-📅 **August 2024 – Present**
+### Postdoctoral Researcher 
+**Mathematics and Computer Science (MCS) Division**  
+*Argonne National Laboratory, IL, USA*  
+📅 **February 2023 – Present**
 
 
-- Postdoctoral Researcher (February 2023 - Present)
-Mathematics and Computer Science (MCS) Division
-Argonne National Laboratory, IL, USA
+### Graduate Assistant
+**Electrical and Computer Engineering**  
+*Florida International University, FL, USA*  
+📅 **January 2021 - December 2022**
 
-* Graduate Assistant  (January 2021 - December 2022)
-Electrical and Computer Engineering
-Florida International University, FL, USA
 
-* Graduate Research Assistant (January 2019 - December 2020)
-Electrical and Computer Engineering
-University of Alabama in Huntsville, AL, USA
+### Graduate Teaching and Research Assistant
+**Electrical and Computer Engineering**  
+*University of Alabama in Huntsville, AL, USA*  
+📅 **January 2019 - December 2020**
 
-* Graduate Research Assistant (August 2017 - December 2018)
-Electrical and Computer Engineering
-University of New Hampshire, NH, USA
 
-* Electrical Safety Engineer (January 2016 - July 2017)
-Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh
+### Graduate Research and Teaching Assistant
+**Electrical and Computer Engineering**  
+*University of New Hampshire, NH, USA*  
+📅 **August 2017 - December 2018**
+
+### Electrical Safety Engineer
+*Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh*  
+📅 **January 2016 - July 2017**
+
+
 
 
 
