@@ -18,7 +18,7 @@ redirect_from:
 
 **Postdoctoral Researcher (February 2023 – Present)**  
 *Electrical and Computer Engineering*  
-- **Argonne National Laboratory, IL, USA**
+**Argonne National Laboratory, IL, USA**
 
 
 ### Graduate Assistant (January 2021 - December 2022)
