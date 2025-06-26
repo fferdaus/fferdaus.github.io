@@ -19,7 +19,7 @@ redirect_from:
 *University of New Hampshire, Fall 2018*
 
 
-- **B.Sc. in Electrical and Computer Engineering**  
+- **B.Sc. in Electrical and Electronic Engineering**  
 *Bangladesh University of Engineering and Technology, September 2015*
 
 
