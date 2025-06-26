@@ -14,7 +14,10 @@ redirect_from:
 *Mathematics and Computer Science (MCS) Division* 
 **Argonne National Laboratory, IL, USA**  
 
-
+### Assistant Professor  
+**Department of Electrical and Computer Engineering**  
+*The University of Akron, OH, USA*  
+📅 **August 2024 – Present**
 
 
 - Postdoctoral Researcher (February 2023 - Present)
