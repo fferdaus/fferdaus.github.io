@@ -16,6 +16,10 @@ redirect_from:
 *Argonne National Laboratory, IL, USA*  
 <!--📅 **February 2023 – Present**-->
 
+**Postdoctoral Researcher (February 2023 – Present)**  
+*Electrical and Computer Engineering*  
+- **Argonne National Laboratory, IL, USA**
+
 
 ### Graduate Assistant (January 2021 - December 2022)
 **Electrical and Computer Engineering**  
@@ -40,6 +44,14 @@ redirect_from:
 
 
 
+<!--Assistant Professor (August 2024 - Present)
+Electrical and Computer Engineering
+The University of Akron, OH, USA
+
+**Ph.D. in Electrical Engineering**  
+*Iowa State University, Spring 2022*  
+- **Major Professor:** Aditya Ramamoorthy  
+- **Minor:** Mathematics
 
 
 
