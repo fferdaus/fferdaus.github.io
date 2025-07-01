@@ -28,7 +28,7 @@ She has published numerous scientific articles, including journal articles, conf
 *Bangladesh University of Engineering and Technology (BUET), September 2015*
 
 
-## Work Experience
+## Professional Experience
 
 
 - **Postdoctoral Researcher (February 2023 – Present)**  
