@@ -13,3 +13,17 @@ She earned her Ph.D. in Fall 2022 from the Department of Electrical and Computer
 
 She has published numerous scientific articles, including journal articles, conference papers, and book chapters on esteemed platforms. Her research is showcased in premier ACM/IEEE journals and conferences, such as the SC Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis, IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid), IEEE Transactions on Information Forensics and Security (TIFS), ACM Journal on Emerging Technologies in Computing Systems, IEEE Transactions on Computers (TC), and IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI). Her research interests include high-performance computer architecture, energy-efficient computing, hardware security, cybersecurity, and memory systems. Her PhD research specifically focused on hardware security and emerging memory technologies. 
 
+
+## Education
+
+- **Ph.D. in Electrical and Computer Engineering**  
+*Florida International University, December 2022*
+
+
+- **M.Sc. in Electrical and Computer Engineering**  
+*University of New Hampshire, December 2018*
+
+
+- **B.Sc. in Electrical and Electronic Engineering**  
+*Bangladesh University of Engineering and Technology (BUET), September 2015*
+
