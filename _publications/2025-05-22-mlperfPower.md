@@ -3,7 +3,7 @@ title: "Evaluating Energy Efficiency of AI Accelerators Using Two MLPerf Benchma
 collection: publications
 category: conferences
 permalink: /publication/2025-05-22-mlperfPower
-excerpt: 'This paper conduct an initial study to evaluate the energy requirements of four AI accelerators: Nvidia A100 GPUs, Intel Habana Gaudi Processing Units (HPUs), Graphcore Bow-Pod64 Intelligence Processing Units (IPUs), and GroqRack Language Processing Units (LPUs) using two popular MLPerf benchmarks: BERT-Large and ResNet50.'
+excerpt: 'This paper conducts an initial study to evaluate the energy requirements of four AI accelerators: Nvidia A100 GPUs, Intel Habana Gaudi Processing Units (HPUs), Graphcore Bow-Pod64 Intelligence Processing Units (IPUs), and GroqRack Language Processing Units (LPUs) using two popular MLPerf benchmarks: BERT-Large and ResNet50.'
 date: 2025-05-22
 venue: 'IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid)'
 ---
