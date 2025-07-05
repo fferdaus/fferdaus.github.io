@@ -1,5 +1,5 @@
 ---
-title: "A Non-invasive Technique to Detect Authentic/Counterfeit SRAM Chips"
+title: "A Non-invasive Technique to Detect Authentic\/Counterfeit SRAM Chips"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-05-30-CounterfeitSRAM
