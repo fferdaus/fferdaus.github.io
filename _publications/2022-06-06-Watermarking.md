@@ -7,7 +7,7 @@ excerpt: 'This article introduces a low-cost technique to embed irreversible wat
 date: 2022-06-06
 venue: 'Proceedings of the Great Lakes Symposium on VLSI'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Ferdaus, F. (2024). &quot;Paper Title Number 3.&quot; <i>Proceedings of the Great Lakes Symposium on VLSI</i>. 1(3).'
+citation: 'Ferdaus, F. (2024). &quot;Watermarked ReRAM: A Technique to Prevent Counterfeit Memory Chips.&quot; <i>Proceedings of the Great Lakes Symposium on VLSI</i>. 1(3).'
 ---
 
 Electronic counterfeiting is a longstanding problem with adverse long-term effects for many sectors, remaining on the rise. This article presents a novel low-cost technique to embed watermarking in devices with resistive-RAM (ReRAM) by manipulating its analog physical characteristics through switching (set/reset) operation to prevent counterfeiting. We develop a system-level framework to control memory cells' physical properties for imprinting irreversible watermarks into commercial ReRAMs that will be retrieved by sensing the changes in cells' physical properties. Experimental results show that our proposed ReRAM watermarking is robust against temperature variation and acceptably fast with ~0.6bit/min of imprinting and ~15.625bits/s of retrieval rates.
