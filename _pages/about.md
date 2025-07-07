@@ -41,12 +41,12 @@ She has published numerous scientific articles, including journal articles, conf
 **Florida International University, FL, USA**
 
 
-- **Graduate Teaching and Research Assistant (January 2019 - December 2020)**  
+- **Graduate Research Assistant (January 2019 - December 2020)**  
 *Electrical and Computer Engineering*  
 **University of Alabama in Huntsville, AL, USA**  
 
 
-- **Graduate Research and Teaching Assistant (August 2017 - December 2018)**  
+- **Graduate Research Assistant (August 2017 - December 2018)**  
 *Electrical and Computer Engineering*  
 **University of New Hampshire, NH, USA**  
 
