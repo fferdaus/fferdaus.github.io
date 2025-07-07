@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-05-13-ApproximateMRAM
 excerpt: 'This paper introduces an efficient and effective systematic approach to build an approximate non-volatile magneto-resistive RAM (MRAM) framework using consumer-off-the-shelf (COTS) MRAM chips. The experimental results show that the proposed AC framework offers a significant performance boost and achieves a reduction in MRAM write energy of approximately 47.5% on average, with little to no loss in output quality.'
-date: 2024-02-13
+date: 2022-05-13
 venue: 'IEEE Transactions on Computers'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
