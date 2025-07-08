@@ -1,7 +1,7 @@
 ---
 title: "Security of Emerging Memory Chips"
 collection: publications
-category: book capter
+category: book chapter
 permalink: /publication/2020-11-10-bookChapSecEmerMem
 excerpt: 'This book chapter focuses on the security vulnerabilities of emerging non-volatile memory chips and discuss the existing countermeasures to make the computing systems robust against various attacks'
 date: 2024-11-18
