@@ -4,7 +4,7 @@ collection: publications
 category: books
 permalink: /publication/2020-11-10-bookChapSecEmerMem
 excerpt: 'This book chapter focuses on the security vulnerabilities of emerging non-volatile memory chips and discuss the existing countermeasures to make the computing systems robust against various attacks'
-date: 2024-11-18
+date: 2020-11-10
 venue: 'Emerging Topics in Hardware Security'
 citation: 'Ferdaus, F., Rahman, M.T. (2021). &quot;Security of Emerging Memory Chips.&quot; <i> In: Tehranipoor, M. (eds) Emerging Topics in Hardware Security</i>. Springer, Cham.'
 ---
