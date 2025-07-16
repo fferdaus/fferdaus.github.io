@@ -56,5 +56,6 @@ She has published numerous scientific articles, including journal articles, conf
 
 
 ## News
-- [Jun 2025] I will join the Department of Electrical and Computer Engineering at Lamar University as a tenure-track assistant professor in Fall'25. 
+- [Jun 2025] I will join the Department of Electrical and Computer Engineering at Lamar University as a tenure-track assistant professor in Fall'25.
+- [Feb 2025] Our paper "Evaluating Energy Efficiency of AI Accelerators Using Two MLPerf Benchmarks" just got accepted at [CCGrid2025](https://site.uit.no/ccgrid2025/)!
 
