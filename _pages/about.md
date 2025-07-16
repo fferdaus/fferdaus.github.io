@@ -68,7 +68,7 @@ She has published numerous scientific articles, including journal articles, conf
 - [Jan 2024] Our paper [Hiding Information for Secure and Covert data Storage in Commercial ReRAM Chips](https://ieeexplore.ieee.org/abstract/document/10436085) just got accepted at [IEEE TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)!
 - [May 2023] Our paper [A Noninvasive Technique to Detect Authentic/Counterfeit SRAM Chips](https://dl.acm.org/doi/abs/10.1145/3597024) just got accepted at [ACM JETC](https://dl.acm.org/journal/jetc)!
 - [Mar 2023] I received a job offer from Montclair State University for a tenure-track assistant professor position.
-- [Jan 2023] I will join the Mathematics and Computer Science (MCS) Division at Argonne National Laboratory as a Postdoctoral Researcher, working with the MCS Division Director, Valerie Taylor.
+- [Jan 2023] I will join the Mathematics and Computer Science (MCS) Division at Argonne National Laboratory as a [Postdoctoral Researcher](https://www.anl.gov/profile/farah-ferdaus), working with the MCS Division Director, Valerie Taylor.
 - [Nov 2022] I successfully defended my [Ph.D. thesis](https://digitalcommons.fiu.edu/etd/5220/) with my 14-month-old son... so yes, I’m officially a doctor (just not the kind that prescribes medicine)!
 - [Oct 2022] I received a job offer from Texas A&M University - Central Texas for the position of Assistant Research Scientist in Cybersecurity.
 - [May 2022] Our team has been invited to participate in Phase 2 of the IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2022 Microelectronics Security Challenge (IP Security Track) and received NSF Travel Grant.
