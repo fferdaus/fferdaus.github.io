@@ -52,5 +52,9 @@ She has published numerous scientific articles, including journal articles, conf
 
 
 - **Electrical Safety Engineer (January 2016 - July 2017)**  
-**Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh**  
+**Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh**
+
+
+## News
+- [Jun 2025] I will join the Department of Electrical and Computer Engineering at Lamar University as a tenure-track assistant professor in Fall'25. 
 
