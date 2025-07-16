@@ -71,9 +71,10 @@ She has published numerous scientific articles, including journal articles, conf
 - [Jan 2023] I will join the Mathematics and Computer Science (MCS) Division at Argonne National Laboratory as a Postdoctoral Researcher, working with the MCS Division Director, Valerie Taylor.
 - [Nov 2022] I successfully defended my Ph.D. thesis with my 14-month-old son... so yes, I’m officially a doctor (just not the kind that prescribes medicine)!
 - [Oct 2022] I received a job offer from Texas A&M University - Central Texas for the position of Assistant Research Scientist in Cybersecurity.
-- [Mar 2022] Our paper "Watermarked ReRAM: A Technique to Prevent Counterfeit Memory Chips" just got accepted at [GLSVLSI 2022](https://glsvlsi.org/archive/glsvlsi22/index.html)!
 - [May 2022] Our team has been invited to participate in Phase 2 of the IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2022 Microelectronics Security Challenge (IP Security Track) and received NSF Travel Grant.
 - [May 2022] I received the NSF Travel Grant to participate in the Ph.D. Thesis competition at the IEEE International Symposium on Hardware-Oriented Security and Trust (HOST) 2022.
+- [Mar 2022] Our paper "Watermarked ReRAM: A Technique to Prevent Counterfeit Memory Chips" just got accepted at [GLSVLSI 2022](https://glsvlsi.org/archive/glsvlsi22/index.html)!
+- 
 
 
 
