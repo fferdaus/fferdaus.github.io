@@ -73,8 +73,9 @@ She has published numerous scientific articles, including journal articles, conf
 - [Oct 2022] I received a job offer from Texas A&M University - Central Texas for the position of Assistant Research Scientist in Cybersecurity.
 - [May 2022] Our team has been invited to participate in Phase 2 of the IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2022 Microelectronics Security Challenge (IP Security Track) and received NSF Travel Grant.
 - [May 2022] I received the NSF Travel Grant to participate in the Ph.D. Thesis competition at the IEEE International Symposium on Hardware-Oriented Security and Trust (HOST) 2022.
+- [Apr 2022] Our paper "Approximate MRAM: High-performance and Power-efficient Computing with MRAM Chips for Error-tolerant Applications" just got accepted at [IEEE TC](https://ieeexplore.ieee.org/abstract/document/10574467)!
 - [Mar 2022] Our paper "Watermarked ReRAM: A Technique to Prevent Counterfeit Memory Chips" just got accepted at [GLSVLSI 2022](https://glsvlsi.org/archive/glsvlsi22/index.html)!
-- 
+  
 
 
 
