@@ -63,6 +63,8 @@ She has published numerous scientific articles, including journal articles, conf
 - [Nov 2024] I served at the Department of Energy (DOE) Booth Roundtable and Whisper Suite at [SC24 Exhibits](https://hallerickson.ungerboeck.com/prod/app85.cshtml?aat=peuh5vlO6ZHi%2b47qjYZa18Xc2wJidCmeJEqz3QTdp0w%3d).
 - [Sep 2024] Our paper "LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators" just got accepted at [PMBS24, colocated with SC24](https://sc24.conference-program.com/session/?sess=sess748)!
 - [May 2024] I have been selected to participate in the Argonne Training Program on Extreme-Scale Computing [ATPESC 2024](https://extremecomputingtraining.anl.gov/)!
+- [May 2023] I received a job offer from North Carolina A&T State University for a tenure-track assistant professor position.
+- [Feb 2024] I received a job offer from the University of Texas at Tyler for a tenure-track assistant professor position.
 - [Jan 2024] Our paper "Hiding Information for Secure and Covert data Storage in Commercial ReRAM Chips" just got accepted at [IEEE TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)!
 - [May 2023] Our paper "A Noninvasive Technique to Detect Authentic/Counterfeit SRAM Chips" just got accepted at [ACM JETC](https://dl.acm.org/journal/jetc)!
 - [Mar 2023] I received a job offer from Montclair State University for a tenure-track assistant professor position.
