@@ -17,12 +17,12 @@ redirect_from:
 
 ## Professional Member
 
-- IEEE Member
-- IEEE Computer Society
-- IEEE Young Professional
-- IEEE CS Technical Community on High Performance Computing
-- IEEE Computing in Science & Engineering
-- National Postdoctoral Association
+- IEEE Member (2020 - current)
+- IEEE Computer Society (2020 - current)
+- IEEE Young Professional (2020 - current)
+- IEEE CS Technical Community on High Performance Computing (2025 - current)
+- IEEE Computing in Science & Engineering (2025 - current)
+- National Postdoctoral Association (2023 - current)
 
 
 ## Others
