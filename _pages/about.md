@@ -65,7 +65,7 @@ She has published numerous scientific articles, including journal articles, conf
 - [May 2024] I have been selected to participate in the Argonne Training Program on Extreme-Scale Computing [ATPESC 2024](https://extremecomputingtraining.anl.gov/)!
 - [Jan 2024] Our paper "Hiding Information for Secure and Covert data Storage in Commercial ReRAM Chips" just got accepted at [IEEE TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)!
 - [May 2023] Our paper "A Noninvasive Technique to Detect Authentic/Counterfeit SRAM Chips" just got accepted at [ACM JETC](https://dl.acm.org/journal/jetc)!
-- [Jan 2023] I will join the Mathematics and Computer Science (MCS) Division at Argonne National Laboratory as a Postdoctoral Researcher, working with the Division Director Valerie Taylor.
+- [Jan 2023] I will join the Mathematics and Computer Science (MCS) Division at Argonne National Laboratory as a Postdoctoral Researcher, working with the MCS Division Director Valerie Taylor.
 
 
 
