@@ -69,7 +69,7 @@ She has published numerous scientific articles, including journal articles, conf
 - [May 2023] Our paper "A Noninvasive Technique to Detect Authentic/Counterfeit SRAM Chips" just got accepted at [ACM JETC](https://dl.acm.org/journal/jetc)!
 - [Mar 2023] I received a job offer from Montclair State University for a tenure-track assistant professor position.
 - [Jan 2023] I will join the Mathematics and Computer Science (MCS) Division at Argonne National Laboratory as a Postdoctoral Researcher, working with the MCS Division Director, Valerie Taylor.
-- [Nov 2022] I defended my Ph.D. thesis... so yes, I’m officially a doctor (just not the kind that prescribes medicine)!
+- [Nov 2022] I successfully defended my Ph.D. thesis with my 14-month-old son... so yes, I’m officially a doctor (just not the kind that prescribes medicine)!
 - [Oct 2022] I received a job offer from Texas A&M University - Central Texas for the position of Assistant Research Scientist in Cybersecurity.
 
 
