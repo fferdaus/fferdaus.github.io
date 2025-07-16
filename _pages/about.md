@@ -58,8 +58,9 @@ She has published numerous scientific articles, including journal articles, conf
 ## News
 - [Jun 2025] I will join the Department of Electrical and Computer Engineering at Lamar University as a tenure-track assistant professor in Fall'25.
 - [Feb 2025] Our paper "Evaluating Energy Efficiency of AI Accelerators Using Two MLPerf Benchmarks" just got accepted at [CCGrid2025](https://site.uit.no/ccgrid2025/)!
-- [Nov 2024] I mentored a Ph.D. student at [SC24](https://sc24.supercomputing.org/).
+- [Nov 2024] I mentored a [Ph.D. student](https://www.linkedin.com/feed/update/urn:li:activity:7266566474553528321/) at [SC24](https://sc24.supercomputing.org/).
 - [Nov 2024] I volunteered at Argonne Booth at [SC24 Job Fair](https://sc24.supercomputing.org/program/job-fair/).
 - [Nov 2024] I volunteered at the Department of Energy (DOE) Booth Roundtable and Whisper Suite at [SC24 Exhibits](https://hallerickson.ungerboeck.com/prod/app85.cshtml?aat=peuh5vlO6ZHi%2b47qjYZa18Xc2wJidCmeJEqz3QTdp0w%3d).
-- [Sep 2024] Our paper "LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators" just got accepted at [PMBS24, colocated with SC24.](https://sc24.conference-program.com/session/?sess=sess748)!
+- [Sep 2024] Our paper "LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators" just got accepted at [PMBS24, colocated with SC24](https://sc24.conference-program.com/session/?sess=sess748)!
+- [Jul 2024] DOE-SC Advanced Scientific Computing Research (ASCR) Travel Grant Recipient for Argonne Training Program on Extreme-Scale Computing (ATPESC) 2024 [PMBS24, colocated with SC24](https://sc24.conference-program.com/session/?sess=sess748)!
 
