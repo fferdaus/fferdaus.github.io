@@ -66,6 +66,7 @@ She has published numerous scientific articles, including journal articles, conf
 - [Jan 2024] Our paper "Hiding Information for Secure and Covert data Storage in Commercial ReRAM Chips" just got accepted at [IEEE TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)!
 - [May 2023] Our paper "A Noninvasive Technique to Detect Authentic/Counterfeit SRAM Chips" just got accepted at [ACM JETC](https://dl.acm.org/journal/jetc)!
 - [Jan 2023] I will join the Mathematics and Computer Science (MCS) Division at Argonne National Laboratory as a Postdoctoral Researcher, working with the MCS Division Director Valerie Taylor.
+- [Nov 2022] I defended my Ph.D. thesis—so yes, I’m officially a doctor (just not the kind that prescribes medicine)!
 
 
 
