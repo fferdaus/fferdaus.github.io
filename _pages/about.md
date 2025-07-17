@@ -72,9 +72,19 @@ She has published numerous scientific articles, including journal articles, conf
 - [Nov 2022] I successfully defended my [Ph.D. thesis](https://digitalcommons.fiu.edu/etd/5220/) with my 14-month-old son... so yes, I’m officially a doctor (just not the kind that prescribes medicine)!
 - [Oct 2022] I received a job offer from Texas A&M University - Central Texas for the position of Assistant Research Scientist in Cybersecurity.
 - [May 2022] Our team has been invited to participate in Phase 2 of the IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2022 Microelectronics Security Challenge (IP Security Track) and received NSF Travel Grant.
-- [May 2022] I received the NSF Travel Grant to participate in the Ph.D. Thesis competition at the IEEE International Symposium on Hardware-Oriented Security and Trust (HOST) 2022.
+- [May 2022] I received NSF Travel Grant to participate in the Ph.D. Thesis competition at the IEEE International Symposium on Hardware-Oriented Security and Trust (HOST) 2022.
 - [Apr 2022] Our paper [Approximate MRAM: High-performance and Power-efficient Computing with MRAM Chips for Error-tolerant Applications](https://ieeexplore.ieee.org/abstract/document/9774950) just got accepted at [IEEE TC](https://ieeexplore.ieee.org/abstract/document/10574467)!
 - [Mar 2022] Our paper [Watermarked ReRAM: A Technique to Prevent Counterfeit Memory Chips](https://dl.acm.org/doi/abs/10.1145/3526241.3530341) just got accepted at [GLSVLSI 2022](https://glsvlsi.org/archive/glsvlsi22/index.html)!
+- [Jul 2021] I received Diversity Grant to attend USENIX Security and the Symposium on Usable Privacy and Security (SOUPS) 2021.
+- [Mar 2021] I received Student Participation Grant to attend the techTalk session and present my [poster](https://www.researchgate.net/publication/350485836_Opportunities_of_Emerging_Memories_in_the_Computing_System) at ACM CRA-WP Grad Cohort for Women 2021.
+- [Feb 2021] Our paper [Memory-Based PUFs are Vulnerable as Well: A Non-Invasive Attack Against SRAM PUFs](https://ieeexplore.ieee.org/abstract/document/9502078) just got accepted at [IEEE TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)!
+- 
+- [Dec 2020] Our paper [True Random Number Generation using Latency Variations of Commercial MRAM Chips](https://ieeexplore.ieee.org/abstract/document/9424346) just got accepted at [ISQED 2021](https://ieeexplore.ieee.org/document/9424342)!
+- [Nov 2020] Our book chapter on [Security of Emerging Memory Chips](https://link.springer.com/chapter/10.1007/978-3-030-64448-2_14) was published online.
+- [Aug 2020] Our paper [True Random Number Generation Using Latency Variations of FRAM](https://ieeexplore.ieee.org/abstract/document/9194084) just got accepted at [IEEE TVLSI](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=92)!
+- [May 2019] I was awarded an NSF Travel Grant to present my [poster](https://www.researchgate.net/publication/345918574_Attesting_SRAM_Manufacturer_Toward_the_Avoidance_of_Counterfeit_SRAM) at the Women in Hardware and Systems Security (WISE) workshop, held in conjunction with the IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2019.
+- [Nov 2018] I successfully defended my [MS thesis](https://www.proquest.com/openview/fc2609e2f960bdda4da60559ab25f92e/1?pq-origsite=gscholar&cbl=18750&diss=y).
+
   
 
 
