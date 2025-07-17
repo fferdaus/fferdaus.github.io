@@ -81,7 +81,7 @@ She has published numerous scientific articles, including journal articles, conf
 - [Feb 2021] Our paper [Memory-Based PUFs are Vulnerable as Well: A Non-Invasive Attack Against SRAM PUFs](https://ieeexplore.ieee.org/abstract/document/9502078) just got accepted at [IEEE TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)!
 - [Jan 2021] Transferred to Florida International University with Ph.D. advisor to continue Ph.D.
 - [Dec 2020] Our paper [True Random Number Generation using Latency Variations of Commercial MRAM Chips](https://ieeexplore.ieee.org/abstract/document/9424346) just got accepted at [ISQED 2021](https://ieeexplore.ieee.org/document/9424342)!
-- [Nov 2020] Our book chapter on [Security of Emerging Memory Chips](https://link.springer.com/chapter/10.1007/978-3-030-64448-2_14) was published online.
+- [Nov 2020] Our book chapter on [Security of Emerging Memory Chips](https://link.springer.com/chapter/10.1007/978-3-030-64448-2_14) has been published online!
 - [Aug 2020] Our paper [True Random Number Generation Using Latency Variations of FRAM](https://ieeexplore.ieee.org/abstract/document/9194084) just got accepted at [IEEE TVLSI](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=92)!
 - [May 2019] Awarded NSF Student Travel Grant to present my [poster](https://www.researchgate.net/publication/345918574_Attesting_SRAM_Manufacturer_Toward_the_Avoidance_of_Counterfeit_SRAM) at the Women in Hardware and Systems Security (WISE) workshop, held in conjunction with the IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2019.
 - [Jan 2019] Declined Ph.D. offers from the University of Wisconsin–Madison and the University of New Hampshire to pursue Ph.D. at the University of Alabama in Huntsville.
