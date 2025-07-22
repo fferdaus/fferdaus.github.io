@@ -33,5 +33,6 @@ redirect_from:
 - DEIA Committee Member, Postdoctoral Society of Argonne
 - Member-at-Large for MCS division, Postdoctoral Society of Argonne
 - Social Media Ambassador, Argonne National Laboratory
+- Examiner in Bangladesh Mathematical Olympiad (BdMO 2010 and BdMO 2011)
 
 
