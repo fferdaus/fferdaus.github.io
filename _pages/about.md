@@ -87,7 +87,7 @@ She has published numerous scientific articles, including journal articles, conf
 - [Jan 2019] Declined Ph.D. offers from the University of Wisconsin–Madison and the University of New Hampshire to pursue Ph.D. at the University of Alabama in Huntsville.
 - [Nov 2018] Successfully defended my [MS thesis](https://www.proquest.com/openview/fc2609e2f960bdda4da60559ab25f92e/1?pq-origsite=gscholar&cbl=18750&diss=y).
 - [Sep 2018] Received Ph.D. offer with research assistantship to join [Dr. Krishnaswamy's lab](https://engineering.wisc.edu/directory/profile/bhuvana-krishnaswamy/) at the University of Wisconsin–Madison.
-- [Apr 2017] Received MSc offer with research assistantship to join [Dr. Kirsch's lab](https://nicholasjkirsch.com/) at the University of New Hampshire.
+- [Apr 2017] Received MSc offer with research assistantship to join [UNH Wireless System Laboratory](https://nicholasjkirsch.com/) at the University of New Hampshire.
 - [Jan 2016] Started working as an Electrical Safety Engineer at [Stichting Bangladesh Accord Foundation](https://bangladeshaccord.org/), with a focus on safety compliance in the industrial (RMG) sector.
 - [Dec 2015] Started professional career as a Trainee Project Engineer (Electrical) at Janasheba Foundation–USTC.
 - [Sep 2015] Successfully defended my BSc thesis titled "Use of Spectral Overlapping in Special Applications".
