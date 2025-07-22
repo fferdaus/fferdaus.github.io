@@ -86,9 +86,15 @@ She has published numerous scientific articles, including journal articles, conf
 - [May 2019] Awarded NSF Student Travel Grant to present my [poster](https://www.researchgate.net/publication/345918574_Attesting_SRAM_Manufacturer_Toward_the_Avoidance_of_Counterfeit_SRAM) at the Women in Hardware and Systems Security (WISE) workshop, held in conjunction with the IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2019.
 - [Jan 2019] Declined Ph.D. offers from the University of Wisconsin–Madison and the University of New Hampshire to pursue Ph.D. at the University of Alabama in Huntsville.
 - [Nov 2018] Successfully defended my [MS thesis](https://www.proquest.com/openview/fc2609e2f960bdda4da60559ab25f92e/1?pq-origsite=gscholar&cbl=18750&diss=y).
-- [Sep 2018] Received Ph.D. offer with research assistantship to join Dr. Krishnaswamy's lab at the University of Wisconsin–Madison.
+- [Sep 2018] Received Ph.D. offer with research assistantship to join [Dr. Krishnaswamy's lab](https://engineering.wisc.edu/directory/profile/bhuvana-krishnaswamy/) at the University of Wisconsin–Madison.
+- [Apr 2017] Received MSc offer with research assistantship to join [Dr. Kirsch's lab](https://nicholasjkirsch.com/) at the University of New Hampshire.
+- [Jan 2016] Started working as an Electrical Safety Engineer at [Stichting Bangladesh Accord Foundation](https://bangladeshaccord.org/), with a focus on safety compliance in the industrial (RMG) sector.
+- [Dec 2015] Started professional career as a Trainee Project Engineer (Electrical) at Janasheba Foundation–USTC.
+- [Sep 2015] Successfully defended my BSc thesis titled "Use of Spectral Overlapping in Special Applications".
+- [Dec 2013] Received Honorable Mention in the "Humanitarian Technology Project Idea Competition" at the IEEE Region-10 Women in Engineering (WIE) BD Congress 2013 (A Call of Engineering for Humanity).
+- [Dec 2013] Runner-up in the WIE Logo Design Competition at the 1st IEEE Region-10 WIE BD Congress 2013 (A Call of Engineering for Humanity).
+- [Jun 2012] Awarded Best Female Player at the BUET Chess Championship.
 
   
-
 
 
