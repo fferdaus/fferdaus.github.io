@@ -88,13 +88,14 @@ She has published numerous scientific articles, including journal articles, conf
 - [Nov 2018] Successfully defended my [MS thesis](https://www.proquest.com/openview/fc2609e2f960bdda4da60559ab25f92e/1?pq-origsite=gscholar&cbl=18750&diss=y).
 - [Sep 2018] Received Ph.D. offer with research assistantship to join [Dr. Krishnaswamy's lab](https://engineering.wisc.edu/directory/profile/bhuvana-krishnaswamy/) at the University of Wisconsin–Madison.
 - [Apr 2017] Received MSc offer with research assistantship to join [Wireless System Laboratory](https://nicholasjkirsch.com/) at the University of New Hampshire.
-- [Jan 2016] Started working as an Electrical Safety Engineer at [Stichting Bangladesh Accord Foundation](https://bangladeshaccord.org/), with a focus on safety compliance in the industrial (RMG) sector.
-- [Dec 2015] Started professional career as a Trainee Project Engineer (Electrical) at Janasheba Foundation–USTC.
+- [Jan 2016] Started professional career as an Electrical Safety Engineer at [Stichting Bangladesh Accord Foundation](https://bangladeshaccord.org/), with a focus on safety compliance in the industrial (RMG) sector.
 - [Sep 2015] Successfully defended my BSc thesis titled "Use of Spectral Overlapping in Special Applications".
 - [Dec 2013] Received Honorable Mention in the "Humanitarian Technology Project Idea Competition" at the IEEE Region-10 Women in Engineering (WIE) BD Congress 2013 (A Call of Engineering for Humanity).
 - [Dec 2013] Runner-up in the WIE Logo Design Competition at the 1st IEEE Region-10 WIE BD Congress 2013 (A Call of Engineering for Humanity).
 - [Jun 2012] Awarded Best Female Player at the BUET Chess Championship.
 
-  
+<!--
+- [Dec 2015] Started professional career as a Trainee Project Engineer (Electrical) at Janasheba Foundation–USTC.
+-->
 
 
