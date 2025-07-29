@@ -89,6 +89,7 @@ She has published numerous scientific articles, including journal articles, conf
 - [Sep 2018] Offered admission to the PhD program at the University of Wisconsin–Madison with a Research Assistantship under the supervision of [Dr. Krishnaswamy](https://engineering.wisc.edu/directory/profile/bhuvana-krishnaswamy/).
 - [May 2017] Received an offer to pursue MSc at Texas State University with a Graduate Instructional Assistantship.
 - [Apr 2017] Received an offer to pursue MSc in [Wireless System Laboratory](https://nicholasjkirsch.com/) at the University of New Hampshire with a Research Assistantship.
+- [Feb 2017] First co-authored paper [Use of single bin Fourier transform algorithm for high speed tone detection and parallel processing](https://ieeexplore.ieee.org/abstract/document/7853894) from undergraduate research is now available online!
 - [Jan 2016] Started professional career as an Electrical Safety Engineer at [Stichting Bangladesh Accord Foundation](https://bangladeshaccord.org/), with a focus on safety compliance in the industrial (RMG) sector.
 - [Sep 2015] Successfully defended my BSc thesis titled "Use of Spectral Overlapping in Special Applications".
 - [Dec 2013] Received Honorable Mention in the "Humanitarian Technology Project Idea Competition" at the IEEE Region-10 Women in Engineering (WIE) BD Congress 2013 (A Call of Engineering for Humanity).
