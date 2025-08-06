@@ -31,7 +31,7 @@ She has published numerous scientific articles, including journal articles, conf
 ## Professional Experience
 
 
-- **Postdoctoral Researcher (February 2023 – Present)**  
+- **Postdoctoral Researcher (February 2023 – August 2025)**  
 *Mathematics and Computer Science (MCS) Division*  
 **Argonne National Laboratory, IL, USA**
 
