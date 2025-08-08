@@ -36,22 +36,22 @@ She has published numerous scientific articles, including journal articles, conf
 **Argonne National Laboratory, IL, USA**
 
 
-- **<span style="color:blue">Graduate Assistant</span> (January 2021 - December 2022)**  
+- **<span style="color:darkblue">Graduate Assistant</span> (January 2021 - December 2022)**  
 *Electrical and Computer Engineering*  
 **Florida International University, FL, USA**
 
 
-- **<span style="color:blue">Graduate Research Assistant</span> (January 2019 - December 2020)**  
+- **<span style="color:darkblue">Graduate Research Assistant</span> (January 2019 - December 2020)**  
 *Electrical and Computer Engineering*  
 **University of Alabama in Huntsville, AL, USA**  
 
 
-- **<span style="color:blue">Graduate Research Assistant</span> (August 2017 - December 2018)**  
+- **<span style="color:darkblue">Graduate Research Assistant</span> (August 2017 - December 2018)**  
 *Electrical and Computer Engineering*  
 **University of New Hampshire, NH, USA**  
 
 
-- **<span style="color:blue">Electrical Safety Engineer</span> (January 2016 - July 2017)**  
+- **<span style="color:darkblue">Electrical Safety Engineer</span> (January 2016 - July 2017)**  
 **Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh**
 
 
