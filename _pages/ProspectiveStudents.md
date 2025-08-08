@@ -29,12 +29,10 @@ I am seeking candidates with a solid technical background and an interest in int
 - Proficiency in hardware and software programming languages, including Python, C, C++, and VHDL/Verilog
 
 
-I am eager to learn what excites you as a researcher, the type of work you are passionate about, and how I can support you in reaching your goals.
+I am eager to learn what inspires you as a researcher and the kind of work you are passionate about.
 
 <span style="color:red">If you are interested, please email me your CV, transcripts, GRE/TOEFL score, a writing sample, and a brief statement of your motivation and goals to fferd006@fiu.edu with the subject line: “Prospective Ph.D. Student.”</span>
 
-
-## If you are interested, please email me your CV, transcripts, GRE/TOEFL score, a writing sample, and a brief statement of your motivation and goals to fferd006@fiu.edu with the subject line: “Prospective Ph.D. Student.”
 
 
 
