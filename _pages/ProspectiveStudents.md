@@ -10,7 +10,7 @@ redirect_from:
 
 ## Openings
 
-I am seeking to recruit several Ph.D. students to join the Phillip M. Drayer Department of Electrical and Computer Engineering at Lamar University. These fully funded positions, which include full tuition coverage and a stipend, are anticipated to begin as early as Spring 2026, Fall 2026, or Spring 2027. Selected students will conduct impactful research in secure high-performance computing, with topics including, but not limited to:
+I am looking to recruit several Ph.D. students to join the Phillip M. Drayer Department of Electrical and Computer Engineering at Lamar University. These fully funded positions, which provide tuition coverage, stipend, and health benefits, are expected to start as early as Spring 2026, Fall 2026, or Spring 2027. Selected students will engage in meaningful research in secure high-performance computing, covering topics such as, but not limited to:
 
 - High-Performance and Secure Computing
 - Performance and Power Analysis & Modeling
@@ -29,18 +29,7 @@ I am seeking candidates with a solid technical background and an interest in int
 - Proficiency in hardware and software programming languages, including Python, C, C++, and VHDL/Verilog
 
 
-I am eager to learn what inspires you as a researcher and the kind of work you are passionate about.
-
 <span style="color:red">If you are interested, please email me your CV, transcripts, GRE/TOEFL score, a writing sample, and a brief statement of your motivation and goals to fferd006@fiu.edu with the subject line: “Prospective Ph.D. Student.”</span>
 
-
-
-
-<!--
-We offer an advanced cutting-edge research program along with an attractive work environment, competitive stipend, tuition coverage and health benefits. The city of Orlando, FL is a top destination worldwide with lots of theme parks and recreational facilities around. Interested students should email mohammad.rahman@ucf.edu with CV, GRE, and TOEFL score report.
-
-About UCF: University of Central Florida’s Computer engineering program at the Department of Electrical and Computer Engineering is ranked into top 50 nationally. It is top #3 university in terms of the number of graduate and undergraduate students. UCF is a power house for Cybersecurity and VLSI design. We have several collaboration with industry to nurture the next-generation of graduates. We have several graduate fellowship programs with AMD, Intel and TI to provide unique opportunity to earn a graduate degree while engaging in cutting edge research and being fully supported by a generous industrial fellowship.
-
--->
 
 
