@@ -21,16 +21,16 @@ main:
     url: /publications/
 
   # - title: "Talks"
-  #  url: /talks/    
+  #  url: /talks/   
+
+  - title: "Prospective Students"
+    url: /prospectiveStudents/
 
   - title: "Teaching"
     url: /teaching/  
 
   - title: "Miscellaneous"
     url: /miscellaneous/
-
-  - title: "Prospective Students"
-    url: /prospectiveStudents/
     
   # - title: "Portfolio"
   #  url: /portfolio/
