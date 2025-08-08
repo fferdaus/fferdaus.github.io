@@ -28,6 +28,9 @@ main:
 
   - title: "Miscellaneous"
     url: /miscellaneous/
+
+  - title: "Prospective Students"
+    url: /prospectiveStudents/
     
   # - title: "Portfolio"
   #  url: /portfolio/
