@@ -16,7 +16,7 @@ She has published numerous scientific articles, including journal articles, conf
 
 ## Education
 
-- **<span style="color:lightblue">Ph.D.</span> in Electrical and Computer Engineering**  
+- **<span style="color:darkblue">Ph.D.</span> in Electrical and Computer Engineering**  
 *Florida International University, December 2022*
 
 
@@ -24,14 +24,14 @@ She has published numerous scientific articles, including journal articles, conf
 *University of New Hampshire, December 2018*
 
 
-- **<span style="color:teal">B.Sc.</span> in Electrical and Electronic Engineering**  
+- **<span style="color:darkblue">B.Sc.</span> in Electrical and Electronic Engineering**  
 *Bangladesh University of Engineering and Technology (BUET), September 2015*
 
 
 ## Professional Experience
 
 
-- **<span style="color:cyan">Postdoctoral Researcher</span> (February 2023 – August 2025)**  
+- **<span style="color:darkblue">Postdoctoral Researcher</span> (February 2023 – August 2025)**  
 *Mathematics and Computer Science (MCS) Division*  
 **Argonne National Laboratory, IL, USA**
 
