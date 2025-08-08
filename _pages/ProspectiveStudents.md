@@ -22,7 +22,7 @@ I am seeking to recruit several Ph.D. students to join the Phillip M. Drayer Dep
 
 ## Requirements
 
-I am seeking candidates with a solid technical background and an interest in interdisciplinary research. 
+I am seeking candidates with a solid technical background and an interest in interdisciplinary research. Following experience and skills are preferred.
 
 - B.S. or M.S. degree in Computer Science, ECE, EEE, or a related field
 - Solid background in computer architecture, machine learning, VLSI circuits, FPGA design
