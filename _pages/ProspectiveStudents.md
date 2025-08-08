@@ -24,7 +24,7 @@ I am looking to recruit several Ph.D. students to join the Phillip M. Drayer Dep
 
 I am seeking candidates with a solid technical background and an interest in interdisciplinary research. Following experience and skills are preferred.
 
-- B.S. or M.S. degree in Computer Science, ECE, EEE, or a related field
+- B.S. or M.S. degree in CS, ECE, EEE, or a related field
 - Solid background in computer architecture, machine learning, VLSI circuits, FPGA design
 - Proficiency in hardware and software programming languages, including Python, C, C++, and VHDL/Verilog
 
