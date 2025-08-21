@@ -26,10 +26,10 @@ I am seeking candidates with a solid background and an interest in interdiscipli
 
 - B.S. or M.S. degree in CS, ECE, EEE, or a related field
 - Strong background in computer architecture, machine learning, VLSI circuits, and FPGA/microcontroller
-- Proficiency in hardware and software programming languages, including Python, C, C++, and VHDL/Verilog
+- Proficient in programming languages such as Python, C, C++, and VHDL/Verilog
+- Hands-on experience with embedded platforms and embedded programming.
 
 
 <span style="color:red">If you are interested, please email me your CV, transcripts, GRE/TOEFL score, a writing sample, and a brief statement of your motivation and goals to [fferdaus@lamar.edu](fferdaus@lamar.edu) with the subject line: “Prospective Ph.D. Student.”</span>
-
 
 
