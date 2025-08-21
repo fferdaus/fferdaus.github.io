@@ -28,6 +28,7 @@ I am seeking candidates with a solid background and an interest in interdiscipli
 - Strong background in computer architecture, machine learning, VLSI circuits, and FPGA/microcontroller
 - Proficient in programming languages such as Python, C, C++, and VHDL/Verilog
 - Hands-on experience with embedded platforms and embedded programming.
+- Basic understanding of quantum computing theory and familiarity with the Qiskit software stack is a plus.
 
 
 <span style="color:red">If you are interested, please email me your CV, transcripts, GRE/TOEFL score, a writing sample, and a brief statement of your motivation and goals to [fferdaus@lamar.edu](fferdaus@lamar.edu) with the subject line: “Prospective Ph.D. Student.”</span>
