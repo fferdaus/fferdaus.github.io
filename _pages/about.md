@@ -31,7 +31,7 @@ She has published numerous scientific articles, including journal articles, conf
 ## Professional Experience
 
 - **<span style="color:darkblue">Assistant Professor</span> (August 2025 – Present)**  
-Department of Electrical and Computer Engineering*  
+*Department of Electrical and Computer Engineering*  
 **Lamar University, TX, USA**
 
 - **<span style="color:darkblue">Postdoctoral Researcher</span> (February 2023 – August 2025)**  
