@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Farah is an incoming Assistant Professor in the Department of Electrical and Computer Engineering at Lamar University. She is currently a Postdoctoral Researcher in the Mathematics and Computer Science (MCS) Division at Argonne National Laboratory, where her research focuses on evaluating the energy efficiency of AI accelerators used in machine learning applications. This includes GPUs from Nvidia, AMD, and Intel, as well as specialized AI accelerators like Intel Habana Gaudi, Graphcore, Groq, and others. She works on multiple projects that benchmark the power and performance of deep learning models across different AI hardware platforms. 
+Farah is an Assistant Professor in the Department of Electrical and Computer Engineering at Lamar University. Prior to joining Lamar, she worked as a Postdoctoral Researcher in the Mathematics and Computer Science (MCS) Division at Argonne National Laboratory, where her research focused on evaluating the energy efficiency of AI accelerators used in machine learning applications. This includes GPUs from Nvidia, AMD, and Intel, as well as specialized AI accelerators like Intel Habana Gaudi, Graphcore, Groq, and others. She works on multiple projects that benchmark the power and performance of deep learning models across different AI hardware platforms. 
 
 <!--She earned her Ph.D. in Fall 2022 from the Department of Electrical and Computer Engineering at Florida International University and her M.Sc. in Fall 2018 from the University of New Hampshire. Earlier, Farah received her B.Sc. in Electrical and Electronic Engineering from the Bangladesh University of Engineering and Technology (BUET) in September 2015. Before starting her graduate studies, Farah worked as an electrical safety engineer at Stichting Bangladesh Accord Foundation for a year and a half.-->
 
@@ -30,6 +30,9 @@ She has published numerous scientific articles, including journal articles, conf
 
 ## Professional Experience
 
+- **<span style="color:darkblue">Assistant Professor</span> (August 2025 – Present)**  
+Department of Electrical and Computer Engineering*  
+**Lamar University, TX, USA**
 
 - **<span style="color:darkblue">Postdoctoral Researcher</span> (February 2023 – August 2025)**  
 *Mathematics and Computer Science (MCS) Division*  
