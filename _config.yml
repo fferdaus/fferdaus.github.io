@@ -25,11 +25,11 @@ author:
   avatar           : "ff.jpg"
   name             : "Farah Ferdaus"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher @MCS Division, ANL"
+  bio              : "Assistant Professor @Department of ECE, Lamar University"
   location         : "Texas, USA"
-  employer         : "Argonne National Laboratory"
+  employer         : "Lamar University"
   uri              : "https://www.anl.gov/profile/farah-ferdaus"
-  email            : "fferdaus@anl.gov" 
+  email            : "fferdaus@lamar.edu" 
 
   # Academic websites
   academia         : # URL
