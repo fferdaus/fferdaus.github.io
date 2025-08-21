@@ -29,7 +29,7 @@ I am seeking candidates with a solid background and an interest in interdiscipli
 - Proficiency in hardware and software programming languages, including Python, C, C++, and VHDL/Verilog
 
 
-<span style="color:red">If you are interested, please email me your CV, transcripts, GRE/[TOEFL](https://www.lamar.edu/admissions/how-to-apply/english-language-proficiency-requirements.html) score, a writing sample, and a brief statement of your motivation and goals to [fferdaus@lamar.edu](fferdaus@lamar.edu) with the subject line: “Prospective Ph.D. Student.”</span>
+<span style="color:red">If you are interested, please email me your CV, transcripts, GRE/TOEFL score, a writing sample, and a brief statement of your motivation and goals to [fferdaus@lamar.edu](fferdaus@lamar.edu) with the subject line: “Prospective Ph.D. Student.”</span>
 
 
 
