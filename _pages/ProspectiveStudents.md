@@ -37,5 +37,6 @@ I am seeking candidates with a solid background and an interest in interdiscipli
 ## Admission and Degree Program Information
 
 - [How to Apply](https://www.lamar.edu/admissions/how-to-apply/graduate/how-to-apply.html)
-- [Lamar offers a Doctor of Engineering (D.E.) degree in Electrical Engineering, not a Doctor of Philosophy (Ph.D.)](https://www.lamar.edu/academics/degrees/electrical-engineering/electrical-engineering-doctoral-degree.html)
+- [English Language Proficiency Requirements](https://www.lamar.edu/admissions/how-to-apply/english-language-proficiency-requirements.html)
+- [ECE department offers a Doctor of Engineering (D.E.) degree in Electrical Engineering, not a Doctor of Philosophy (Ph.D.)](https://www.lamar.edu/academics/degrees/electrical-engineering/electrical-engineering-doctoral-degree.html)
 - [D.E. vs. Ph.D.](https://www.findaphd.com/guides/doctor-of-engineering-engd-guide)
