@@ -34,4 +34,8 @@ I am seeking candidates with a solid background and an interest in interdiscipli
 <span style="color:red">If you are interested, please email me your CV, transcripts, GRE/TOEFL score, a writing sample, and a brief statement of your motivation and goals to [fferdaus@lamar.edu](fferdaus@lamar.edu) with the subject line: “Prospective Ph.D. Student.”</span>
 
 
+## Admission and Degree Program Information
 
+- [How to Apply](https://www.lamar.edu/admissions/how-to-apply/graduate/how-to-apply.html)
+- [Lamar offers a Doctor of Engineering (D.E.) degree in Electrical Engineering, not a Doctor of Philosophy (Ph.D.)](https://www.lamar.edu/academics/degrees/electrical-engineering/electrical-engineering-doctoral-degree.html)
+- [D.E. vs. Ph.D.)](https://www.findaphd.com/guides/doctor-of-engineering-engd-guide)
