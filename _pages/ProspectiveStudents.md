@@ -24,7 +24,7 @@ I am looking to recruit several doctoral students to join the Phillip M. Drayer 
 
 I am seeking candidates with a solid background and an interest in interdisciplinary research. Following experience and skills are preferred.
 
-- B.S. or M.S. degree in CS, ECE, EEE, or a related field
+- B.S. degree in CS, ECE, EEE, or a related field
 - Strong background in computer architecture, machine learning, VLSI circuits, and FPGA/microcontroller
 - Proficient in programming languages such as Python, C, C++, and VHDL/Verilog
 - Hands-on experience with embedded platforms and embedded programming.
