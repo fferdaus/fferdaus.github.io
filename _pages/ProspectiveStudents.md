@@ -10,7 +10,7 @@ redirect_from:
 
 ## Openings
 
-I am looking to recruit several Ph.D. students to join the Phillip M. Drayer Department of Electrical and Computer Engineering at Lamar University. These fully funded positions, which provide tuition coverage, stipend, and health benefits, are expected to start as early as Spring 2026, Fall 2026, or Spring 2027. Selected students will conduct research in secure high-performance computing, focusing on topics including, but not limited to:
+I am looking to recruit several doctoral students to join the Phillip M. Drayer Department of Electrical and Computer Engineering at Lamar University. These fully funded positions are expected to start as early as Spring 2026, Fall 2026, or Spring 2027. Selected students will conduct research in secure high-performance computing, focusing on topics including, but not limited to:
 
 - High-Performance and Secure Computing
 - Performance and Power Analysis & Modeling
@@ -32,5 +32,6 @@ I am seeking candidates with a solid background and an interest in interdiscipli
 
 
 <span style="color:red">If you are interested, please email me your CV, transcripts, GRE/TOEFL score, a writing sample, and a brief statement of your motivation and goals to [fferdaus@lamar.edu](fferdaus@lamar.edu) with the subject line: “Prospective Ph.D. Student.”</span>
+
 
 
