@@ -38,4 +38,4 @@ I am seeking candidates with a solid background and an interest in interdiscipli
 
 - [How to Apply](https://www.lamar.edu/admissions/how-to-apply/graduate/how-to-apply.html)
 - [Lamar offers a Doctor of Engineering (D.E.) degree in Electrical Engineering, not a Doctor of Philosophy (Ph.D.)](https://www.lamar.edu/academics/degrees/electrical-engineering/electrical-engineering-doctoral-degree.html)
-- [D.E. vs. Ph.D.)](https://www.findaphd.com/guides/doctor-of-engineering-engd-guide)
+- [D.E. vs. Ph.D.](https://www.findaphd.com/guides/doctor-of-engineering-engd-guide)
