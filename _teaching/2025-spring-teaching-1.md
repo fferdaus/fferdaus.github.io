@@ -2,7 +2,7 @@
 title: "ELEN 4314 Fundamentals of Digital Signal Processing"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2025-spring-teaching-1
 venue: "Lamar University, Electrical and Computer Engineering"
 date: 2025-08-21
 location: "Lamar, TX"
