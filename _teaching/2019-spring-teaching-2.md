@@ -2,7 +2,7 @@
 title: "CPE211L Introduction to Computer Programming for Engineering Laboratory"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-2
+permalink: /teaching/2019-spring-teaching-2
 venue: "University of Alabama in Huntsville, Computer Engineering"
 date: 2019-08-21
 location: "Huntsville, AL"
