@@ -1,14 +1,15 @@
 ---
 title: "ELEN 4314 Fundamentals of Digital Signal Processing"
 collection: teaching
-<!--type: "Workshop"-->
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Lamar University, Electrical and Computer Engineering"
 date: 20125-08-21
-<!--location: "City, Country"-->
 location: "Lamar, TX"
 ---
+
+<!--type: "Workshop"-->
+<!--location: "City, Country"-->
 
 <!--This is a description of a teaching experience. You can use markdown like any other post.-->
 Course instructor for the Fall 2025 semester.
