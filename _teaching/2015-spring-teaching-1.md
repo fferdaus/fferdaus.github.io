@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Lamar University, Electrical and Computer Engineering"
-date: 20125-08-21
+date: 2025-08-21
 location: "Lamar, TX"
 ---
 
