@@ -1,5 +1,5 @@
 ---
-title: "CPE211L Introduction to Computer Programming for Engineering Laboratory"
+title: "CPE 211L Introduction to Computer Programming for Engineering Laboratory"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching
