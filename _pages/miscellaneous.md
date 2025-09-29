@@ -23,7 +23,7 @@ redirect_from:
 - IEEE Young Professional (2020 - current)
 - IEEE CS Technical Community on High Performance Computing (2025 - current)
 - IEEE Computing in Science & Engineering (2025 - current)
-- National Postdoctoral Association (2023 - current)
+- National Postdoctoral Association (2023 - 2025)
 
 
 ## Others
