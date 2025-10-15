@@ -33,7 +33,7 @@ redirect_from:
 
 ## Academic Experience
 
-- **Florida International University, Miami, FL, USA**  and  **University of Alabama in Huntsville, AL, USA**  
+- **Florida International University, Miami, FL, USA**  and  **University of Alabama in Huntsville, Huntsville, AL, USA**  
   * Graduate Research Assistant (January 2019 - December 2022) in the Department of Electrical and Computer Engineering 
   * **Specialization**: Memory subsystem, hardware security, and performance evaluation of computing subsystems
   * Examined emerging memory technologies and proposed security primitives using emerging FeRAM, MRAM, and ReRAM
