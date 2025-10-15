@@ -13,6 +13,7 @@ redirect_from:
 - Guest Editor for the special issue titled "Energy-Aware Computing for AI Accelerators in Machine Learning" in Information (ISSN 2078-2489)
 - U.S. Department of Energy (DOE) Workforce Development for Teachers and Scientists (WDTS) Summer 2025 Visiting Faculty Program (VFP) Project Proposal Review Committee
 - IEEE Transactions on Emerging Topics in Computing (TETC)
+- Springer Nature
 - IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST)
 - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
 
