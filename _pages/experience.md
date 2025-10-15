@@ -29,14 +29,14 @@ redirect_from:
   * Reviewed Electrical System and Substation following Electrical and Fire Safety Design Principles (NFPA, BNBC, BS standards).
   * Provided Technical Assistance (Consultancy and Counseling) to Bangladesh RMG Industries.
   * Conducted safety inspection.
-  
 
+  
 ## Academic Experience
 
 - **Florida International University, Miami, FL, USA**  and  **University of Alabama in Huntsville, Huntsville, AL, USA**  
   * Graduate Research Assistant (January 2019 - December 2022) in the Department of Electrical and Computer Engineering 
   * **Specialization**: Memory subsystem, hardware security, and performance evaluation of computing subsystems
-  * Examined emerging memory technologies and proposed security primitives using emerging FeRAM, MRAM, and ReRAM
+  * Conducted research on emerging memory technologies and proposed security primitives using emerging FeRAM, MRAM, and ReRAM
   * Developed an MRAM-based approximate computing framework to improve device performance and energy efficiency
   * **Teaching**: CPE211L (Intro. Computer Program for Engr. Laboratory) (August 2019 - August 2020)
   * **Grading**: CPE212 (Fundamentals of Software Engineering), EE202 (Digital Logic Design), CPE322 (Digital Hardware Design Fundamentals)
