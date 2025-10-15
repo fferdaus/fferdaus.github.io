@@ -28,7 +28,7 @@ I have published numerous scientific articles, including journal articles, confe
 - **<span style="color:darkblue">B.Sc.</span> in Electrical and Electronic Engineering**  
 *Bangladesh University of Engineering and Technology (BUET), September 2015*
 
-
+<!--
 ## Professional Experience
 
 - **<span style="color:darkblue">Assistant Professor</span> (August 2025 – Present)**  
@@ -57,7 +57,7 @@ I have published numerous scientific articles, including journal articles, confe
 
 - **<span style="color:darkblue">Electrical Safety Engineer</span> (January 2016 - July 2017)**  
 **Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh**
-
+-->
 ## News
 - [Oct 2025] Will mentor a second-year Ph.D. student from Tufts University at [SC25](https://sc25.supercomputing.org/students/mentor-protege-matching/).
 - [Jun 2025] Will be joining the Department of Electrical and Computer Engineering at Lamar University as a tenure-track Assistant Professor starting Fall'25.
