@@ -18,7 +18,7 @@ redirect_from:
 * Assistant Professor (August 2025 – Present) in the Department of Electrical and Computer Engineering
 * **Specialization**: Quantum computing, Quantum machine learning
 
-- **Argonne National Laboratory, Lemont, IL, USA (Remote) **  
+- **Argonne National Laboratory, Lemont, IL, USA (Remote)**  
 * Postdoctoral Researcher (February 2023 – August 2025) in the Mathematics and Computer Science (MCS) Division
 * **Specialization**: Performance and power/energy evaluation of AI accelerators.
 * Evaluating performance and energy efficiency of cutting-edge AI accelerators for scientific machine learning applications.
