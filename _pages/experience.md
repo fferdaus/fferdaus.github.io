@@ -84,7 +84,7 @@ redirect_from:
     * Ph.D. Dissertation Committee: Kemal Akkaya, Ou Bai, Ananda Mohan Mondal
   * University of New Hampshire:
     * MSc Supervisor: Nicholas J. Kirsch
-    * MSc Dissertation Committee: John R. LaCourse, Edward Song
+    * MSc Thesis Committee: John R. LaCourse, Edward Song
  - **Collaborators/Teammates**
    * Argonne National Laboratory: Murali Emani, Venkatram Vishwanath, Xingfu Wu, Krishna Teja Chitty-Venkata, Siddhisanket Raskar, Bharat Kale, Aditya Tanikanti, Ken Raffenetti
    * University of Alabama in Huntsville: Aubrey Beal, B. M. S. Bahar Talukder, Md Imtiaz Rashid, Md Kawser Bepary, Sadman Sakib
