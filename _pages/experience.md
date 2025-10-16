@@ -65,7 +65,6 @@ redirect_from:
      * **Argonne Leadership Computing Facility**: Polaris, Sophia (previously ThetaGPU) and JLSE
      * **University of Alabama in Huntsville (UAH)**: UAH Jetson Cluster, Alabama Supercomputer Authority's Dense Memory Cluster    
  - **Machine Learning and Data Science**: PyTorch, NumPy
- - **Optimization Tools**: nvidia-smi, amd-smi, hl-smi, gc-monitor, perf, htop
  - **HDL Synthesis**: Intel Quartus Prime, Xilinx ISE, Xilinx Vivado, ModelSim (w. Verilog/SystemVerilog, VHDL)
  - **Embedded System**: Arduino, AVR Microcontroller
  - **Microarchitecture and ISA**: MIPS, RISC-V
@@ -74,6 +73,7 @@ redirect_from:
  - **Software-defined Radio**: Universal Software Radio Peripheral (USRP) by Ettus, GNU Radio, OpenBTS
  - **Misc.**: Docker/Apptainer, Microsoft Azure, NIST Statistical Test Suite, Wireshark (network analyzer), VTune Profiler (performance analyzer)
 
+<!-- - **Optimization Tools**: nvidia-smi, amd-smi, hl-smi, gc-monitor, perf, htop-->
 
 ## Professional Network
 
