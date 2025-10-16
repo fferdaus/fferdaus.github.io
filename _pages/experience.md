@@ -39,7 +39,7 @@ redirect_from:
   * Conducted research on emerging memory technologies and proposed security primitives using emerging FeRAM, MRAM, and ReRAM
   * Developed an MRAM-based approximate computing framework to improve device performance and energy efficiency
   * **Teaching**: CPE211L (Intro. Computer Program for Engr. Laboratory) (August 2019 - August 2020)
-  * **Grading**: CPE212 (Fundamentals of Software Engineering), EE202 (Digital Logic Design), CPE322 (Digital Hardware Design Fundamentals)
+  * **Grading**: CPE212 (Fundamentals of Software Engineering), EE202 (Digital Logic Design), CPE322 (Digital Hardware Design Fundamentals) (August 2019 - August 2020)
   * **Graduate Courses**: Advanced Computer System Architecture, Advanced Hardware Security and Trust, VLSI Hardware Description Language/Modeling, Introduction to Parallel Computing, Data Structure and Analysis of Algorithm, Introduction to Computer Security, Introduction to Cybersecurity Engineering, Mobile and Wireless Networks, Advanced loT Analytics with Cloud Services, Statistical Methods for Engineer.
 
 
