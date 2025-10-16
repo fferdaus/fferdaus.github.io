@@ -94,10 +94,10 @@ redirect_from:
    * Goutham Kalikrishna Reddy Kuncham, PhD Student, Ohio State University
    * Budvin Edippuliarachchi, PhD Student, Tufts University
  
-## Talks/Presentations
+<!--## Talks/Presentations
 
 
-<!--**Ph.D. in Electrical Engineering**  
+**Ph.D. in Electrical Engineering**  
 *Iowa State University, Spring 2022*  
 - **Major Professor:** T Raman 
 - **Minor:** Mathematics-->
