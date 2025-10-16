@@ -16,7 +16,7 @@ redirect_from:
 
 * **<span style="color:darkblue">Lamar University, Beaumont, TX, USA</span>**  
   * Assistant Professor (August 2025 – Present) in the Department of Electrical and Computer Engineering
-  * **Specialization**: Quantum computing, Quantum machine learning
+  * Conducting research in quantum computing
 
 * **<span style="color:darkblue">Argonne National Laboratory, Lemont, IL, USA (Remote)</span>**  
   * Postdoctoral Researcher (February 2023 – August 2025) in the Mathematics and Computer Science (MCS) Division
