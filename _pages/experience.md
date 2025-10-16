@@ -14,17 +14,17 @@ redirect_from:
 *Argonne National Laboratory, IL, USA*  
 📅 **February 2023 – Present**-->
 
-* **Lamar University, Beaumont, TX, USA**  
+* **<span style="color:darkblue">Lamar University, Beaumont, TX, USA</span>**  
   * Assistant Professor (August 2025 – Present) in the Department of Electrical and Computer Engineering
   * **Specialization**: Quantum computing, Quantum machine learning
 
-* **Argonne National Laboratory, Lemont, IL, USA (Remote)**  
+* **<span style="color:darkblue">Argonne National Laboratory, Lemont, IL, USA (Remote)</span>**  
   * Postdoctoral Researcher (February 2023 – August 2025) in the Mathematics and Computer Science (MCS) Division
   * **Specialization**: Performance and power/energy evaluation of AI accelerators.
   * Evaluating performance and energy efficiency of cutting-edge AI accelerators for scientific machine learning applications.
   * Collaborated with scientists and engineers from Nvidia, AMD, SambaNova, Cerebras, Groq, Graphcore and Intel Habana
 
-* **Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh**  
+* **<span style="color:darkblue">Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh</span>**  
   * Electrical Safety Engineer (January 2016 - July 2017)
   * Reviewed Electrical System and Substation following Electrical and Fire Safety Design Principles (NFPA, BNBC, BS standards).
   * Provided Technical Assistance (Consultancy and Counseling) to Bangladesh RMG Industries.
@@ -33,7 +33,7 @@ redirect_from:
   
 ## Academic Experience
 
-- **Florida International University, Miami, FL, USA**  and  **University of Alabama in Huntsville, Huntsville, AL, USA**  
+- **<span style="color:darkblue">Florida International University, Miami, FL, USA</span>**  and  **<span style="color:darkblue">University of Alabama in Huntsville, Huntsville, AL, USA</span>**  
   * Graduate Research Assistant (January 2019 - December 2022) in the Department of Electrical and Computer Engineering 
   * **Specialization**: Memory subsystem, hardware security, and performance evaluation of computing subsystems
   * Conducted research on emerging memory technologies and proposed security primitives using emerging FeRAM, MRAM, and ReRAM
@@ -43,7 +43,7 @@ redirect_from:
   * **Graduate Courses**: Advanced Computer System Architecture, Advanced Hardware Security and Trust, VLSI Hardware Description Language/Modeling, Introduction to Parallel Computing, Data Structure and Analysis of Algorithm, Introduction to Computer Security, Introduction to Cybersecurity Engineering, Mobile and Wireless Networks, Advanced loT Analytics with Cloud Services, Statistical Methods for Engineer.
 
 
-- **University of New Hampshire, Durham, NH, USA**  
+- **<span style="color:darkblue">University of New Hampshire, Durham, NH, USA</span>**  
   * Graduate Research Assistant (August 2017 - December 2018) in the Department of Electrical and Computer Engineering 
   * Developed and deployed a non-intrusive approach using wireless sensor networks to assist occupancy detection in a smart home system.
   * Teaching: ECE757/857 (Fundamentals of Communication Systems) (August 2018 - December 2018)
