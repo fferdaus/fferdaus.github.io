@@ -46,11 +46,55 @@ redirect_from:
 - **<span style="color:darkblue">University of New Hampshire, Durham, NH, USA</span>**  
   * Graduate Research Assistant (August 2017 - December 2018) in the Department of Electrical and Computer Engineering 
   * Developed and deployed a non-intrusive approach using wireless sensor networks to assist occupancy detection in a smart home system.
-  * Teaching: ECE757/857 (Fundamentals of Communication Systems) (August 2018 - December 2018)
+  * **Teaching**: ECE757/857 (Fundamentals of Communication Systems) (August 2018 - December 2018)
   * **Graduate Courses**: Wireless Communication Systems, Biomedical Instrumentation, Microsystems and Biosensors, Advance Multimedia Communications, Digital Signal Processing.
 
- 
 
+## Skills and Technical Experience
+
+- **Generic**:
+  * **Programming Languages**:
+     * **Strong**: C/C++, Python, MATLAB, MIPS/8086 Assembly
+     * **Working Knowledge**: OpenMP, MPI, Pthread, OpenACC
+  * **Others**: Git, HTML, LaTeX, shell scripting
+ - **Hardware**:
+   * **Platforms**:
+     * **GPUs**: Nvidia (V100, A100, H100, GH200), AMD (MI250, MI300x, MI300A)
+     * **AI Accelerators**: Cerebras CS-2, SambaNova SN40L, Groq LPU, Graphcore BowPod64, Habana Gaudi1 and Gaudi2
+   * **HPC/Supercomputers**:
+     * **Argonne Leadership Computing Facility**: Polaris, Sophia (previously ThetaGPU) and JLSE
+     * **University of Alabama in Huntsville (UAH)**: UAH Jetson Cluster, Alabama Supercomputer Authority's Dense Memory Cluster    
+ - **Machine Learning and Data Science**: PyTorch, NumPy
+ - **Optimization Tools**: nvidia-smi, amd-smi, hl-smi, gc-monitor, perf, htop
+ - **HDL Synthesis**: Intel Quartus Prime, Xilinx ISE, Xilinx Vivado, ModelSim (w. Verilog/SystemVerilog, VHDL)
+ - **Embedded System**: Arduino, AVR Microcontroller
+ - **Microarchitecture and ISA**: MIPS, RISC-V
+ - **Modeling and Simulation**: OrCAD PSpice, Multi2Sim, Proteus, NI Multisim, Simulink
+ - **EDA Tools**: RTL Compiler Ultra, Cadence Virtuoso, Assura, EDI-Encounter by Cadence
+ - **Software-defined Radio**: Universal Software Radio Peripheral (USRP) by Ettus, GNU Radio, OpenBTS
+ - **Misc.**: Docker/Apptainer, Microsoft Azure, NIST Statistical Test Suite, Wireshark (network analyzer), VTune Profiler (performance analyzer)
+
+
+## Professional Network
+
+- **Managers/Mentors**
+  * Argonne National Laboratory: Valerie Taylor, Michael E. Papka
+  * Florida International University and University of Alabama in Huntsville:
+    * Ph.D. Supervisor: M. Tauhidur Rahman
+    * Ph.D. Dissertation Committee: Kemal Akkaya, Ou Bai, Ananda Mohan Mondal
+  * University of New Hampshire:
+    * MSc Supervisor: Nicholas J. Kirsch
+    * MSc Dissertation Committee: John R. LaCourse, Edward Song
+ - **Collaborators/Teammates**
+   * Argonne National Laboratory: Murali Emani, Venkatram Vishwanath, Xingfu Wu, Krishna Teja Chitty-Venkata, Siddhisanket Raskar, Bharat Kale, Aditya Tanikanti, Ken Raffenetti
+   * University of Alabama in Huntsville: Aubrey Beal, Mehdi Sadi, B. M. S. Bahar Talukder, Md Imtiaz Rashid, Md Kawser Bepary, Sadman Sakib
+   * University of New Hampshire: Jean L. Kubwimana, Omid M. Kandelusy
+   * External: Zhiling Lan (UIC), Sanjif Shanmugavelu (Groq), Sylvia Howland (Cerebras)
+ - **Mentees**
+   * Goutham Kalikrishna Reddy Kuncham, PhD Student, Ohio State University
+   * Budvin Edippuliarachchi, PhD Student, Tufts University
+ 
+## Talks/Presentations
 
 
 <!--**Ph.D. in Electrical Engineering**  
