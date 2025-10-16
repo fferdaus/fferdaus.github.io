@@ -86,7 +86,7 @@ redirect_from:
     * MSc Supervisor: Nicholas J. Kirsch
     * MSc Thesis Committee: John R. LaCourse, Edward Song
  - **Collaborators/Teammates**
-   * Argonne National Laboratory: Murali Emani, Venkatram Vishwanath, Xingfu Wu, Krishna Teja Chitty-Venkata, Siddhisanket Raskar, Bharat Kale, Aditya Tanikanti, Ken Raffenetti
+   * Argonne National Laboratory: Murali Emani, Venkatram Vishwanath, Xingfu Wu, Krishna Teja Chitty-Venkata, Siddhisanket Raskar, Bharat Kale, Aditya Tanikanti, Ken Raffenetti, Wilkie Olin-Ammentorp, Solomon Abera Bekele
    * University of Alabama in Huntsville: Aubrey Beal, B. M. S. Bahar Talukder, Md Imtiaz Rashid, Md Kawser Bepary, Sadman Sakib
    * University of New Hampshire: Jean L. Kubwimana, Omid M. Kandelusy
    * External: Mehdi Sadi (Auburn), Zhiling Lan (UIC), Sanjif Shanmugavelu (Groq), Sylvia Howland (Cerebras)
