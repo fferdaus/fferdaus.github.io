@@ -14,6 +14,7 @@ Course Instructor for the Spring 2026 semester.
 Course Description
 ======
 This course will provide students with in-depth analysis and design capability required for state-of-the-art low-power and high-performance digital integrated circuits. Topics include the physics of operation and terminal I-V behavior of MOS devices, design and fabrication of the basic CMOS inverter and logic gates, static and dynamic circuits, pass-transistor logic, scaling-induced challenges, interconnect design, and VLSI testing basics.
+
 <!--
 Heading 2
 ======
