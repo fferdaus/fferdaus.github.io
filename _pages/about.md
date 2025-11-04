@@ -59,7 +59,7 @@ I have published numerous scientific articles, including journal articles, confe
 **Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh**
 -->
 ## News
-- [Oct 2025] Will mentor a third-year Ph.D. student from Tufts University at [SC25](https://sc25.supercomputing.org/students/mentor-protege-matching/).
+- [Oct 2025] Will mentor two Ph.D. students at [SC25](https://sc25.supercomputing.org/students/mentor-protege-matching/).
 - [Jun 2025] Will be joining the Department of Electrical and Computer Engineering at Lamar University as a tenure-track Assistant Professor starting Fall'25.
 - [Feb 2025] Our paper [Evaluating Energy Efficiency of AI Accelerators Using Two MLPerf Benchmarks](https://ieeexplore.ieee.org/abstract/document/11044796) just got accepted at [CCGrid2025](https://site.uit.no/ccgrid2025/)!
 - [Nov 2024] Mentored a third-year [Ph.D. student](https://www.linkedin.com/feed/update/urn:li:activity:7266566474553528321/) from Ohio State University at [SC24](https://sc24.supercomputing.org/).
