@@ -14,7 +14,9 @@ redirect_from:
 - U.S. Department of Energy (DOE) Workforce Development for Teachers and Scientists (WDTS) Summer 2025 Visiting Faculty Program (VFP) Project Proposal Review Committee
 - IEEE Transactions on Emerging Topics in Computing (TETC)
 - Springer Nature
+- IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid)
 - IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST)
+- IEEE International Symposium on Quality Electronic Design (ISQED)
 - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
 
 ## Professional Member
