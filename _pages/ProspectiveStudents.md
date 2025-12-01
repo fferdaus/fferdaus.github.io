@@ -31,7 +31,7 @@ I am seeking candidates with a solid background and an interest in interdiscipli
 - Basic understanding of quantum computing theory and familiarity with the Qiskit software stack is a plus.
 
 
-<span style="color:red">If you are interested, please email me your CV, transcripts, GRE/TOEFL score, a writing sample, and a brief statement of your motivation and goals to [fferdaus@lamar.edu](fferdaus@lamar.edu) with the subject line: “Prospective doctoral Student.”</span>
+<span style="color:red">If you are interested, please email me your CV, transcripts, GRE/TOEFL score, a writing sample, and a brief statement of your motivation and goals to [fferdaus[AT]lamar[dot]edu](fferdaus@lamar.edu) with the subject line: “Prospective doctoral Student.”</span>
 
 
 ## Admission and Degree Program Information
