@@ -81,7 +81,7 @@ I have published numerous scientific articles, including journal articles, confe
 - [May 2022] Awarded NSF Student Travel Grant to participate in the Ph.D. Thesis competition at the IEEE International Symposium on Hardware-Oriented Security and Trust (HOST) 2022.
 - [Apr 2022] Our paper [Approximate MRAM: High-performance and Power-efficient Computing with MRAM Chips for Error-tolerant Applications](https://ieeexplore.ieee.org/abstract/document/9774950) just got accepted at [IEEE TC](https://ieeexplore.ieee.org/abstract/document/10574467)!
 - [Jul 2021] Awarded Diversity Grant to attend USENIX Security and the Symposium on Usable Privacy and Security (SOUPS) 2021.
-- [Jun 2021] Successfully defended my Qualifying and Dissertation Proposal on "Emerging Memory Chips: Security and Applications," marking a major milestone in my Ph.D. journey—all while 26 weeks pregnant. Officially a Ph.D. Candidate now! 
+- [Jun 2021] Successfully defended my Qualifying and Dissertation Proposal on "Emerging Memory Chips: Security and Applications," marking a major milestone in my Ph.D. journey. Officially a Ph.D. Candidate now! 
 - [Mar 2021] Awarded Student Participation Grant to attend the techTalk session and present my [poster](https://www.researchgate.net/publication/350485836_Opportunities_of_Emerging_Memories_in_the_Computing_System) at ACM CRA-WP Grad Cohort for Women 2021.
 - [Feb 2021] Our paper [Memory-Based PUFs are Vulnerable as Well: A Non-Invasive Attack Against SRAM PUFs](https://ieeexplore.ieee.org/abstract/document/9502078) just got accepted at [IEEE TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)!
 - [Jan 2021] Transferred to Florida International University with Ph.D. advisor to continue Ph.D.
