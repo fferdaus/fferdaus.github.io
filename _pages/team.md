@@ -12,6 +12,7 @@ redirect_from:
 
 - Faisal Ahmed Chowdhury (Spring 2026 ~ present)
 - Mohammed Sazzad Yousuf Sourab (Spring 2026 ~ present)
+- Mohammed Eshphaq Hossain (Spring 2026 ~ present)
 
 
 ## MS Students
