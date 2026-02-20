@@ -35,7 +35,7 @@ redirect_from:
 - Vice Chair of the IEEE Beaumont Section
 - Training Program on Extreme-Scale Computing (ATPESC) 2025 Review and Program Committee
 - Professional Development Committee Member, Postdoctoral Society of Argonne
-- Organizing Committee Member (Sub-committee Co-lead), Argonne Postdoctoral Research & Career Symposium
+- Organizing Committee Member ([Sub-committee Co-lead](https://www.anl.gov/hr/prcs/2024)), Argonne Postdoctoral Research & Career Symposium
 - DEIA Committee Member, Postdoctoral Society of Argonne
 - Member-at-Large for MCS division, Postdoctoral Society of Argonne
 - Social Media Ambassador, Argonne National Laboratory
