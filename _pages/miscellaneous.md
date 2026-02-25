@@ -25,9 +25,9 @@ redirect_from:
 - IEEE Member (2020 - current)
 - IEEE Computer Society (2020 - current)
 - IEEE Young Professional (2020 - current)
-- IEEE Eta Kappa Nu (IEEE-HKN) (2026 - current)
 - IEEE CS Technical Community on High Performance Computing (2025 - current)
 - IEEE Computing in Science & Engineering (2025 - current)
+- IEEE Eta Kappa Nu (IEEE-HKN) (2026 - current)
 - National Postdoctoral Association (2023 - 2025)
 
 
