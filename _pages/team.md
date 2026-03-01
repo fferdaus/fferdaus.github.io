@@ -8,6 +8,10 @@ redirect_from:
 
 {% include base_path %}
 
+<p align="center">
+  <img src="images/team.HEIC" width="400">
+</p>
+
 ## Doctoral Students
 
 - Faisal Ahmed Chowdhury (Spring 2026 ~ present)
