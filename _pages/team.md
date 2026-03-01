@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 <p align="center">
-  <img src="images/team.HEIC" width="400">
+  <img src="team.HEIC" width="400">
 </p>
 
 ## Doctoral Students
