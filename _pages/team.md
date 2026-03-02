@@ -24,7 +24,7 @@ redirect_from:
 - Tasmina Imam (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
 
 
-## Team Photo – Spring 2026
+## Meet the Team
  
 <div style="text-align: center;">
   <img src="{{ base_path }}/images/team.jpg" alt="Research Team" width="800">
