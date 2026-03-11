@@ -19,6 +19,7 @@ redirect_from:
 - IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST)
 - IEEE International Symposium on Quality Electronic Design (ISQED)
 - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
+- Training Program on Extreme-Scale Computing (ATPESC) 2025 Review and Program Committee
 
 ## Professional Member
 
@@ -33,8 +34,8 @@ redirect_from:
 
 ## Others
 
-- Vice Chair of the IEEE Beaumont Section
-- Training Program on Extreme-Scale Computing (ATPESC) 2025 Review and Program Committee
+- Publications Chair, 1st Gulf Coast Conference on Energy, Communications & Automation (GECA) 2027
+- Vice Chair, IEEE Beaumont Section
 - Professional Development Committee Member, Postdoctoral Society of Argonne
 - Organizing Committee Member ([Sub-committee Co-lead](https://www.anl.gov/hr/prcs/2024)), Argonne Postdoctoral Research & Career Symposium
 - DEIA Committee Member, Postdoctoral Society of Argonne
