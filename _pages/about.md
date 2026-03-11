@@ -59,10 +59,11 @@ I have published numerous scientific articles, including journal articles, confe
 **Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh**
 --> 
 ## News
-- [Feb 2026] Will be serving as a Session Moderator at [ISQED26](https://www.isqed.org/English/Archives/2026/Technical_Sessions/index.html).
-- [Jan 2026] Will be attending the [IEEE Sections Congress 2026](https://2026.sections-congress.ieee.org/about/area-information/) as the Primary Section Delegate (PSD) for the Beaumont Section.
-- [Nov 2025] Will be serving on the technical program  committee for [SC26](https://supercomputing.org/), [CCGrid26](https://ccgrid2026.cdms.westernsydney.edu.au/program-committees.php), and [ISQED26](https://www.isqed.org/English/Conference/Committee_Conference_Technical.html).
-- [Oct 2025] Will mentor two Ph.D. students at [SC25](https://sc25.supercomputing.org/students/mentor-protege-matching/).
+- [Feb 2026] Will be serving as a **Session Moderator** at [ISQED26](https://www.isqed.org/English/Archives/2026/Technical_Sessions/index.html).
+- [Feb 2026] I will serve as the **Publications Chair** for the **1st Gulf Coast Conference on Energy, Communications & Automation (GECA) 2027**, organized by the **IEEE Beaumont Section**.
+- [Jan 2026] Will be attending the [IEEE Sections Congress 2026](https://2026.sections-congress.ieee.org/about/area-information/) as the **Primary Section Delegate (PSD)** for the Beaumont Section.
+- [Nov 2025] Will be serving on the **technical program committee** for [SC26](https://supercomputing.org/), [CCGrid26](https://ccgrid2026.cdms.westernsydney.edu.au/program-committees.php), and [ISQED26](https://www.isqed.org/English/Conference/Committee_Conference_Technical.html).
+- [Oct 2025] Will **mentor** two Ph.D. students at [SC25](https://sc25.supercomputing.org/students/mentor-protege-matching/).
 - [Jun 2025] Will be joining the Department of Electrical and Computer Engineering at Lamar University as a tenure-track Assistant Professor starting Fall'25.
 - [Feb 2025] Our paper [Evaluating Energy Efficiency of AI Accelerators Using Two MLPerf Benchmarks](https://ieeexplore.ieee.org/abstract/document/11044796) just got accepted at [CCGrid2025](https://site.uit.no/ccgrid2025/)!
 - [Nov 2024] Mentored a third-year [Ph.D. student](https://www.linkedin.com/feed/update/urn:li:activity:7266566474553528321/) from Ohio State University at [SC24](https://sc24.supercomputing.org/).
