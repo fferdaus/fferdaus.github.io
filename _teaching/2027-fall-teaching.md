@@ -13,7 +13,7 @@ Course Instructor for Fall 2026.
 
 Course Description
 ======
-Introduction to the principles of cryptography and computer security with emphasis on protecting information systems. Topics include fundamental cryptographic techniques, hardware and physical security mechanisms, security management practices, and relevant public laws and policies. The course also covers security engineering methods such as business process analysis, software security, Information Assurance and Engineering (IAE) evaluation, auditing techniques, and security testing of computing systems.
+Introduction to the principles of cryptography and computer security with emphasis on protecting information systems. Topics include fundamental cryptographic techniques, hardware and physical security mechanisms, security management practices, and relevant public laws and policies. The course also covers security engineering methods such as business process analysis, software security, Information Assurance and Engineering evaluation, auditing techniques, and security testing of computing systems.
 
 <!--
 Heading 2
