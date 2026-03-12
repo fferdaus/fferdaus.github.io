@@ -1,5 +1,5 @@
 ---
-title: "ECEN 5301 Selected topics in Quantum computing"
+title: "ECEN 5301 Selected Topics in Quantum Computing"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2026-summer-teaching
