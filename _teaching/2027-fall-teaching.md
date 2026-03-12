@@ -1,5 +1,5 @@
 ---
-title: "ECEN 5301 Introduction to Cybersecurity Engneering"
+title: "ECEN 5301 Introduction to Cybersecurity Engineering"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2027-fall-teaching
