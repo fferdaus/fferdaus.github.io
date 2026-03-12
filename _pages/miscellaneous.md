@@ -34,6 +34,7 @@ redirect_from:
 
 ## Others
 
+- Mentor, [AnitaB.org Mentorship Program](https://membership.anitab.org/page/mentorship?utm_source=MarketingCloud&utm_medium=email&utm_campaign=3.10.26+Bites+%26+Bytes+Email&utm_content=https%3a%2f%2fmembership.anitab.org%2fpage%2fmentorship&utm_term=%201267)
 - Publications Chair, 1st Gulf Coast Conference on Energy, Communications & Automation (GECA) 2027
 - Vice Chair, IEEE Beaumont Section
 - Professional Development Committee Member, Postdoctoral Society of Argonne
