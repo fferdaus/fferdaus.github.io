@@ -9,7 +9,7 @@ location: "Lamar, TX"
 ---
 
 <!--This is a description of a teaching experience. You can use markdown like any other post.-->
-Course Instructor for the Spring 2026 semester.
+Course Instructor for Spring 2026.
 
 Course Description
 ======
