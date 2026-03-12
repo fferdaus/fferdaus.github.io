@@ -15,6 +15,10 @@ Course Description
 ======
 Introduction to the principles of quantum computing and quantum information processing. Topics include qubits, superposition, entanglement, quantum measurement, and quantum circuit models. The course covers basic quantum gates, circuit design, and introductory quantum algorithms. Students gain experience programming quantum circuits using modern quantum software frameworks and cloud-based quantum computing platforms. Applications of quantum computing in areas such as optimization, cryptography, and scientific simulation are also discussed.
 
+<!--
+Heading 2
+======
+
 Heading 3
 ======
 -->
