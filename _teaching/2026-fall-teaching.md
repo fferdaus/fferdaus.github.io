@@ -14,6 +14,8 @@ Course Instructor for Fall 2026.
 Course Description
 ======
 Study of digital computer principles, program organization, algorithm development, and implementation using high-level languages, such as C/C++ and/or Python. Topics include number systems, data types, input/output, logical operations, selections, repetitions, functions, arrays, and structures.
+
+
 <!--
 Heading 2
 ======
