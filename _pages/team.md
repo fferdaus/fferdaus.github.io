@@ -10,9 +10,59 @@ redirect_from:
 
 ## Doctoral Students
 
+<table>
+  <tr>
+    <td width="160" valign="top">
+      <img src="https://your-image-url/alice.jpg" 
+           width="140" 
+           height="140" 
+           style="border-radius: 8px; object-fit: cover;" 
+           alt="Alice Chen"/>
+    </td>
+    <td valign="top" style="padding-left: 20px;">
+      <h3>Alice Chen</h3>
+      <p><strong>Role:</strong> Lead Engineer</p>
+      <p>
+        Alice has 10 years of experience in embedded systems and hardware 
+        security. She leads the architecture team and oversees all 
+        firmware design decisions.
+      </p>
+      <p>
+        📧 alice@yourlab.edu &nbsp;|&nbsp; 
+        🔗 <a href="https://linkedin.com/in/alicechen">LinkedIn</a>
+      </p>
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br/></td></tr>
+
+  <tr>
+    <td width="160" valign="top">
+      <img src="https://your-image-url/bob.jpg" 
+           width="140" 
+           height="140" 
+           style="border-radius: 8px; object-fit: cover;" 
+           alt="Bob Nguyen"/>
+    </td>
+    <td valign="top" style="padding-left: 20px;">
+      <h3>Bob Nguyen</h3>
+      <p><strong>Role:</strong> PhD Researcher</p>
+      <p>
+        Bob's research focuses on quantum error correction and 
+        near-term quantum algorithms. He joined the lab in 2024 
+        and holds an MS in Physics from UT Austin.
+      </p>
+      <p>
+        📧 bob@yourlab.edu &nbsp;|&nbsp; 
+        🔗 <a href="https://linkedin.com/in/bobnguyen">LinkedIn</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
   <img src="{{ site.baseurl }}/images/Faisal.jpeg"
-       style="width: 140px; height: 140px; object-fit: cover; border-radius: 8px; flex-shrink: 0;"
+       style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; flex-shrink: 0;"
        alt="Faisal Ahmed Chowdhury"/>
   <div>
     <h4><a href="https://www.linkedin.com/in//">Faisal Ahmed Chowdhury </a></h4>
