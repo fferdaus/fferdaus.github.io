@@ -66,7 +66,7 @@ redirect_from:
        alt="Faisal Ahmed Chowdhury"/>
   <div>
     <!--<h4><a href="https://www.linkedin.com/in//">Faisal Ahmed Chowdhury </a></h4>-->
-    <p style="font-size: 12px; color: gray;">Faisal Ahmed Chowdhury (Spring 2026 ~ present)</p>
+    <p style="font-size: 18px;">Faisal Ahmed Chowdhury (Spring 2026 ~ present)</p>
     <p>Faisal Ahmed Chowdhury is a doctoral student in the Department of Electrical and Computer Engineering at Lamar University, USA. His research focuses on quantum error correction, quantum security, and the reliability of emerging quantum computing systems. He is particularly interested in developing methods to protect quantum information from noise, hardware imperfections, and potential security vulnerabilities in large-scale quantum platforms.
 Before starting his doctoral studies, Faisal completed his undergraduate degree at Chittagong University of Engineering and Technology (CUET), Bangladesh. His earlier research focused on nonlinear optics, photonics, and biosensor technologies, providing him with a strong background in photonic systems and experimental physics.
 His current work bridges quantum computing, quantum communication security, and fault-tolerant architectures to improve the robustness and security of next-generation quantum technologies.
