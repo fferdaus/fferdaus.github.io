@@ -134,6 +134,31 @@ redirect_from:
 
 
 ## MS Students
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
+  <div style="flex-shrink: 0; width: 240px; text-align: center;">
+    <img src="{{ site.baseurl }}/images/Rayhan.jpeg"
+         style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; display: block;"
+         alt="Md. Rayhan Chowdhury"/>
+    <p style="font-size: 18px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 6px;">
+      Md. Rayhan Chowdhury<br>
+      <span style="font-size: 16px;">(Spring 2026 ~ present)</span>
+    </p>
+    <!-- Social links -->
+    <div style="display: flex; justify-content: center; gap: 12px; margin-top: 6px;">
+      <a href="https://github.com/rayhaneeeruet" target="_blank" title="GitHub"
+         style="color: var(--global-text-color-light); text-decoration: none; font-size: 13px;">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+      <a href="https://www.linkedin.com/in/ask-rayhan/" target="_blank" title="LinkedIn"
+         style="color: var(--global-text-color-light); text-decoration: none; font-size: 13px;">
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+    </div>
+  </div>
+  <div style="flex: 1; font-size: 1rem; line-height: 1.6; color: var(--global-text-color);">
+    Md. Rayhan Chowdhury is a graduate student in the Department of Electrical and Computer Engineering at Lamar University and a member of the High-Performance Energy-Efficient Secure Computer Architecture (HESCA) Research Lab. His work focuses on solar power forecasting using machine learning and deep learning, with future research interest in building AI models for fault detection, cybersecurity, and net load forecasting to improve grid resiliency. He earned his B.Sc. from Rajshahi University of Engineering and Technology (RUET), Bangladesh, in 2011, and has 12 years of experience in power plant erection & commissioning, consumer electronics, and electric vehicle product management. His expertise includes ETAP and PSCAD-based transient instability analysis and power system modeling.
+  </div>
+</div>
 
 - Md Abu Taher (Spring 2026 ~ present)
 - Md Rayhan Chowdhury (Spring 2026 ~ present)
