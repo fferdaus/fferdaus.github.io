@@ -108,7 +108,7 @@ redirect_from:
   
   <!-- Left column: image + name stacked -->
   <div style="flex-shrink: 0; width: 240px; text-align: center;">
-    <img src="{{ site.baseurl }}/images/Sazzad.jpg"
+    <img src="{{ site.baseurl }}/images/Eshphaq.jpg"
          style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; display: block;"
          alt="Mohammed Eshphaq Hossain"/>
     <p style="font-size: 16px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 0;">
