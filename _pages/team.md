@@ -95,7 +95,7 @@ redirect_from:
   <div style="flex-shrink: 0; width: 240px; text-align: center;">
     <img src="{{ site.baseurl }}/images/Eshphaq.jpg"
          style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; display: block;"
-         alt="Eshphaq"/>
+         alt="Mohammed Eshphaq Hossain"/>
     <p style="font-size: 16px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 0;">
       Mohammed Eshphaq Hossain<br>
       <span style="font-size: 11px;">(Spring 2026 ~ present)</span>
