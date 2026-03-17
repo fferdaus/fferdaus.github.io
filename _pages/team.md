@@ -66,21 +66,21 @@ redirect_from:
     <img src="{{ site.baseurl }}/images/Faisal.jpeg"
          style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; display: block;"
          alt="Faisal Ahmed Chowdhury"/>
-    <p style="font-size: 16px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 6px;">
+    <p style="font-size: 20px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 6px;">
       Faisal Ahmed Chowdhury<br>
-      <span style="font-size: 12px;">(Spring 2026 ~ present)</span>
+      <span style="font-size: 16px;">(Spring 2026 ~ present)</span>
     </p>
     <!-- Social links -->
     <div style="display: flex; justify-content: center; gap: 12px; margin-top: 6px;">
-      <a href="https://github.com/YOUR_GITHUB" target="_blank" title="GitHub"
+      <a href="https://github.com/Faisal-A-Chowdhury" target="_blank" title="GitHub"
          style="color: var(--global-text-color-light); text-decoration: none; font-size: 13px;">
         <i class="fab fa-github"></i> GitHub
       </a>
-      <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" title="Google Scholar"
+      <a href="https://scholar.google.com/citations?user=Ae8_rgQAAAAJ&hl=en" target="_blank" title="Google Scholar"
          style="color: var(--global-text-color-light); text-decoration: none; font-size: 13px;">
         <i class="ai ai-google-scholar"></i> Scholar
       </a>
-      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank" title="LinkedIn"
+      <a href="https://www.linkedin.com/in/faisal-ahmed-chowdhury-992812156/" target="_blank" title="LinkedIn"
          style="color: var(--global-text-color-light); text-decoration: none; font-size: 13px;">
         <i class="fab fa-linkedin"></i> LinkedIn
       </a>
