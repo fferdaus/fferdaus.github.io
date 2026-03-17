@@ -62,7 +62,7 @@ redirect_from:
 -->
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-bottom: 32px; align-items: center;">
   <img src="{{ site.baseurl }}/images/Faisal.jpeg"
-       style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px; display: block;"
+       style="width: 50%; height: 50%; object-fit: cover; border-radius: 8px; display: block;"
        alt="Faisal Ahmed Chowdhury"/>
   <div>
     <h4><a href="https://www.linkedin.com/in//">Faisal Ahmed Chowdhury</a></h4>
