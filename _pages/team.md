@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ## Doctoral Students
-
+<!--
 <table>
   <tr>
     <td width="160" valign="top">
@@ -59,7 +59,7 @@ redirect_from:
     </td>
   </tr>
 </table>
-
+-->
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
   <img src="{{ site.baseurl }}/images/Faisal.jpeg"
        style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; flex-shrink: 0;"
