@@ -76,7 +76,7 @@ redirect_from:
 
   <!-- Right column: bio only -->
   <div>
-    <p>Faisal Ahmed Chowdhury is a doctoral student in the Department of Electrical and Computer Engineering at Lamar University, USA. His research focuses on quantum error correction, quantum security, and the reliability of emerging quantum computing systems. He is particularly interested in developing methods to protect quantum information from noise, hardware imperfections, and potential security vulnerabilities in large-scale quantum platforms. Before starting his doctoral studies, Faisal completed his undergraduate degree at Chittagong University of Engineering and Technology (CUET), Bangladesh. His earlier research focused on nonlinear optics, photonics, and biosensor technologies, providing him with a strong background in photonic systems and experimental physics. His current work bridges quantum computing, quantum communication security, and fault-tolerant architectures to improve the robustness and security of next-generation quantum technologies.
+    <p>Faisal Ahmed Chowdhury is a doctoral student in the Department of Electrical and Computer Engineering at Lamar University, USA. His research focuses on quantum error correction, quantum security, and the reliability of emerging quantum computing systems. He is particularly interested in developing methods to protect quantum information from noise, hardware imperfections, and potential security vulnerabilities in large-scale quantum platforms. Before starting his doctoral studies, Faisal earned his Bachelor of Science degree from Chittagong University of Engineering and Technology (CUET), Bangladesh. His earlier research focused on nonlinear optics, photonics, and biosensor technologies, providing him with a strong background in photonic systems and experimental physics. His current work bridges quantum computing, quantum communication security, and fault-tolerant architectures to enhance the robustness and security of next-generation quantum technologies.
     </p>
   </div>
 
@@ -119,8 +119,7 @@ redirect_from:
 
   <!-- Right column: bio only -->
   <div>
-    <p>Mohammed Eshphaq Hossain earned his Bachelor of Science in Electrical and Electronic Engineering from the Islamic University of Technology (IUT), Bangladesh, and his Master of Science in Electrical Engineering from the University of South Florida (USF), USA. In Spring 2026, he joined Lamar University as a doctoral student in the Department of Electrical and Computer Engineering and became a member of the High-performance Energy-efficient Secure Computer Architecture (HESCA) Research Lab. His research interests include machine learning, computer vision, AI-driven solutions for applications such as agricultural
-pest and disease detection, Smart agriculture with computer vision, Adversarial Attack detection in Vision language Models etc.
+    <p>Mohammed Eshphaq Hossain earned his Bachelor of Science in Electrical and Electronic Engineering from the Islamic University of Technology (IUT), Bangladesh, and his Master of Science in Electrical Engineering from the University of South Florida (USF), USA. In Spring 2026, he joined Lamar University as a doctoral student in the Department of Electrical and Computer Engineering and became a member of the High-Performance Energy-Efficient Secure Computer Architecture (HESCA) Research Lab. His research interests include machine learning, computer vision, AI-driven solutions for applications such as agricultural pest and disease detection, smart agriculture with computer vision, adversarial attack detection in vision-language models, etc.
     </p>
   </div>
 
