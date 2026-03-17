@@ -107,29 +107,6 @@ redirect_from:
 </div>
 
 
-<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
-  
-  <!-- Left column: image + name stacked -->
-  <div style="flex-shrink: 0; width: 240px; text-align: center;">
-    <img src="{{ site.baseurl }}/images/Eshphaq.jpg"
-         style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; display: block;"
-         alt="Mohammed Eshphaq Hossain"/>
-    <p style="font-size: 16px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 0;">
-      Mohammed Eshphaq Hossain<br>
-      <span style="font-size: 11px;">(Spring 2026 ~ present)</span>
-    </p>
-  </div>
-
-  <!-- Right column: bio only -->
-  <div style="padding-top: 0; margin-top: 0;">
-    <p style="padding-top: 0; margin-top: 0;">Mohammed Eshphaq Hossain earned his Bachelor of Science in Electrical and Electronic Engineering from the Islamic University of Technology (IUT), Bangladesh, and his Master of Science in Electrical Engineering from the University of South Florida (USF), USA. In Spring 2026, he joined Lamar University as a doctoral student in the Department of Electrical and Computer Engineering and became a member of the High-Performance Energy-Efficient Secure Computer Architecture (HESCA) Research Lab. His research interests include machine learning, computer vision, AI-driven solutions for applications such as agricultural pest and disease detection, smart agriculture with computer vision, adversarial attack detection in vision-language models, etc.
-    </p>
-  </div>
-
-</div>
-
-
-
 ## MS Students
 
 - Md Abu Taher (Spring 2026 ~ present)
