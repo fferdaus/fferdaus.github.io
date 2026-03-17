@@ -68,7 +68,7 @@ redirect_from:
          alt="Faisal Ahmed Chowdhury"/>
     <p style="font-size: 16px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 0;">
       Faisal Ahmed Chowdhury<br>
-      <span style="font-size: 11px;">(Spring 2026 ~ present)</span>
+      <span style="font-size: 12px;">(Spring 2026 ~ present)</span>
     </p>
   </div>
   <div style="flex: 1; font-size: 1rem; line-height: 1.6; color: var(--global-text-color);">
@@ -83,7 +83,7 @@ redirect_from:
          alt="Mohammed Sazzad Yousuf Sourab"/>
     <p style="font-size: 16px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 0;">
       Mohammed Sazzad Yousuf Sourab<br>
-      <span style="font-size: 11px;">(Spring 2026 ~ present)</span>
+      <span style="font-size: 12px;">(Spring 2026 ~ present)</span>
     </p>
   </div>
   <div style="flex: 1; font-size: 1rem; line-height: 1.6; color: var(--global-text-color);">
@@ -98,7 +98,7 @@ redirect_from:
          alt="Mohammed Eshphaq Hossain"/>
     <p style="font-size: 16px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 0;">
       Mohammed Eshphaq Hossain<br>
-      <span style="font-size: 11px;">(Spring 2026 ~ present)</span>
+      <span style="font-size: 12px;">(Spring 2026 ~ present)</span>
     </p>
   </div>
   <div style="flex: 1; font-size: 1rem; line-height: 1.6; color: var(--global-text-color);">
