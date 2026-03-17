@@ -66,10 +66,25 @@ redirect_from:
     <img src="{{ site.baseurl }}/images/Faisal.jpeg"
          style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; display: block;"
          alt="Faisal Ahmed Chowdhury"/>
-    <p style="font-size: 16px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 0;">
+    <p style="font-size: 16px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 6px;">
       Faisal Ahmed Chowdhury<br>
       <span style="font-size: 12px;">(Spring 2026 ~ present)</span>
     </p>
+    <!-- Social links -->
+    <div style="display: flex; justify-content: center; gap: 12px; margin-top: 6px;">
+      <a href="https://github.com/YOUR_GITHUB" target="_blank" title="GitHub"
+         style="color: var(--global-text-color-light); text-decoration: none; font-size: 13px;">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+      <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" title="Google Scholar"
+         style="color: var(--global-text-color-light); text-decoration: none; font-size: 13px;">
+        <i class="ai ai-google-scholar"></i> Scholar
+      </a>
+      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank" title="LinkedIn"
+         style="color: var(--global-text-color-light); text-decoration: none; font-size: 13px;">
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+    </div>
   </div>
   <div style="flex: 1; font-size: 1rem; line-height: 1.6; color: var(--global-text-color);">
     Faisal Ahmed Chowdhury is a doctoral student in the Department of Electrical and Computer Engineering at Lamar University, USA. His research focuses on quantum error correction, quantum security, and the reliability of emerging quantum computing systems. He is particularly interested in developing methods to protect quantum information from noise, hardware imperfections, and potential security vulnerabilities in large-scale quantum platforms. In Spring 2026, he joined Lamar University as a Graduate Research Assistant and became a member of the High-performance Energy-efficient Secure Computer Architecture (HESCA) Research Lab. Before starting his doctoral studies, Faisal earned his Bachelor of Science degree from Chittagong University of Engineering and Technology (CUET), Bangladesh. His earlier research focused on nonlinear optics, photonics, and biosensor technologies, giving him a strong background in photonic systems and experimental physics. His current work bridges quantum computing, quantum communication security, and fault-tolerant architectures to improve the robustness and security of next-generation quantum technologies. His research interests also include GPU-accelerated computing, energy-efficient quantum-classical hybrid systems, and secure quantum system design.
