@@ -66,7 +66,7 @@ redirect_from:
     <img src="{{ site.baseurl }}/images/Faisal.jpeg"
          style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; display: block;"
          alt="Faisal Ahmed Chowdhury"/>
-    <p style="font-size: 20px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 6px;">
+    <p style="font-size: 18px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 6px;">
       Faisal Ahmed Chowdhury<br>
       <span style="font-size: 16px;">(Spring 2026 ~ present)</span>
     </p>
@@ -96,7 +96,7 @@ redirect_from:
     <img src="{{ site.baseurl }}/images/Sazzad.jpg"
          style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; display: block;"
          alt="Mohammed Sazzad Yousuf Sourab"/>
-    <p style="font-size: 20px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 6px;">
+    <p style="font-size: 18px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 6px;">
       Mohammed Sazzad Yousuf Sourab<br>
       <span style="font-size: 16px;">(Spring 2026 ~ present)</span>
     </p>
