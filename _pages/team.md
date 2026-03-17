@@ -66,10 +66,22 @@ redirect_from:
        alt="Faisal Ahmed Chowdhury"/>
   <div>
     <!--<h4><a href="https://www.linkedin.com/in//">Faisal Ahmed Chowdhury </a></h4>-->
-    <p style="font-size: 18px;">Faisal Ahmed Chowdhury (Spring 2026 ~ present)</p>
+    <p style="font-size: 18px; color: gray;">Faisal Ahmed Chowdhury (Spring 2026 ~ present)</p>
     <p>Faisal Ahmed Chowdhury is a doctoral student in the Department of Electrical and Computer Engineering at Lamar University, USA. His research focuses on quantum error correction, quantum security, and the reliability of emerging quantum computing systems. He is particularly interested in developing methods to protect quantum information from noise, hardware imperfections, and potential security vulnerabilities in large-scale quantum platforms.
 Before starting his doctoral studies, Faisal completed his undergraduate degree at Chittagong University of Engineering and Technology (CUET), Bangladesh. His earlier research focused on nonlinear optics, photonics, and biosensor technologies, providing him with a strong background in photonic systems and experimental physics.
 His current work bridges quantum computing, quantum communication security, and fault-tolerant architectures to improve the robustness and security of next-generation quantum technologies.
+</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
+  <img src="{{ site.baseurl }}/images/Sazzad.jpeg"
+       style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; flex-shrink: 0;"
+       alt="Mohammed Sazzad Yousuf Sourab"/>
+  <div>
+    <!--<h4><a href="https://www.linkedin.com/in//">Faisal Ahmed Chowdhury </a></h4>-->
+    <p style="font-size: 18px; color: gray;">Mohammed Sazzad Yousuf Sourab (Spring 2026 ~ present)</p>
+    <p>Mohammed Sazzad Yousuf Sourab earned his Bachelor of Science in Electronics and Telecommunication Engineering from Chittagong University of Engineering & Technology (CUET), Bangladesh, and enrolled in his Master of Science in Information and Communication Technology (ICT) at the Institute of Information and Communication Technology (IICT), Bangladesh University of Engineering and Technology (BUET). In Spring 2026, he joined Lamar University as a Graduate Research Assistant and became a member of the High-performance Energy-efficient Secure Computer Architecture (HESCA) Research Lab. His research interests include GPU-accelerated computing, energy-efficient high-performance computing systems, secure computer architecture, and AI-driven optimization techniques for next-generation computing platforms. He is currently on study leave from his position as a Lecturer in the Department of Information and Communication Engineering at Daffodil International University (DIU).
 </p>
   </div>
 </div>
