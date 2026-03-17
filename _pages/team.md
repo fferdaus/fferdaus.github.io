@@ -161,7 +161,6 @@ redirect_from:
 </div>
 
 - Md Abu Taher (Spring 2026 ~ present)
-- Md Rayhan Chowdhury (Spring 2026 ~ present)
 - Abdur Rahman (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
 - Md Sultan Mahamud (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
 - Tasmina Imam (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
