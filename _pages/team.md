@@ -96,8 +96,8 @@ redirect_from:
   </div>
 
   <!-- Right column: bio only -->
-  <div>
-    <p>Mohammed Sazzad Yousuf Sourab earned his Bachelor of Science in Electronics and Telecommunication Engineering from Chittagong University of Engineering & Technology (CUET), Bangladesh, and enrolled in his Master of Science in Information and Communication Technology (ICT) at the Institute of Information and Communication Technology (IICT), Bangladesh University of Engineering and Technology (BUET). In Spring 2026, he joined Lamar University as a Graduate Research Assistant and became a member of the High-performance Energy-efficient Secure Computer Architecture (HESCA) Research Lab. His research interests include GPU-accelerated computing, energy-efficient high-performance computing systems, secure computer architecture, and AI-driven optimization techniques for next-generation computing platforms. He is currently on study leave from his position as a Lecturer in the Department of Information and Communication Engineering at Daffodil International University (DIU).
+  <div style="padding-top: 0; margin-top: 0;">
+    <p style="padding-top: 0; margin-top: 0;">Mohammed Sazzad Yousuf Sourab earned his Bachelor of Science in Electronics and Telecommunication Engineering from Chittagong University of Engineering & Technology (CUET), Bangladesh, and enrolled in his Master of Science in Information and Communication Technology (ICT) at the Institute of Information and Communication Technology (IICT), Bangladesh University of Engineering and Technology (BUET). In Spring 2026, he joined Lamar University as a Graduate Research Assistant and became a member of the High-performance Energy-efficient Secure Computer Architecture (HESCA) Research Lab. His research interests include GPU-accelerated computing, energy-efficient high-performance computing systems, secure computer architecture, and AI-driven optimization techniques for next-generation computing platforms. He is currently on study leave from his position as a Lecturer in the Department of Information and Communication Engineering at Daffodil International University (DIU).
     </p>
   </div>
 
@@ -118,8 +118,8 @@ redirect_from:
   </div>
 
   <!-- Right column: bio only -->
-  <div>
-    <p>Mohammed Eshphaq Hossain earned his Bachelor of Science in Electrical and Electronic Engineering from the Islamic University of Technology (IUT), Bangladesh, and his Master of Science in Electrical Engineering from the University of South Florida (USF), USA. In Spring 2026, he joined Lamar University as a doctoral student in the Department of Electrical and Computer Engineering and became a member of the High-Performance Energy-Efficient Secure Computer Architecture (HESCA) Research Lab. His research interests include machine learning, computer vision, AI-driven solutions for applications such as agricultural pest and disease detection, smart agriculture with computer vision, adversarial attack detection in vision-language models, etc.
+  <div style="padding-top: 0; margin-top: 0;">
+    <p style="padding-top: 0; margin-top: 0;">Mohammed Eshphaq Hossain earned his Bachelor of Science in Electrical and Electronic Engineering from the Islamic University of Technology (IUT), Bangladesh, and his Master of Science in Electrical Engineering from the University of South Florida (USF), USA. In Spring 2026, he joined Lamar University as a doctoral student in the Department of Electrical and Computer Engineering and became a member of the High-Performance Energy-Efficient Secure Computer Architecture (HESCA) Research Lab. His research interests include machine learning, computer vision, AI-driven solutions for applications such as agricultural pest and disease detection, smart agriculture with computer vision, adversarial attack detection in vision-language models, etc.
     </p>
   </div>
 
