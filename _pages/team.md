@@ -122,9 +122,9 @@ redirect_from:
     <img src="{{ site.baseurl }}/images/Eshphaq.jpg"
          style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; display: block;"
          alt="Mohammed Eshphaq Hossain"/>
-    <p style="font-size: 16px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 0;">
+    <p style="font-size: 20px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 0;">
       Mohammed Eshphaq Hossain<br>
-      <span style="font-size: 12px;">(Spring 2026 ~ present)</span>
+      <span style="font-size: 16px;">(Spring 2026 ~ present)</span>
     </p>
   </div>
   <div style="flex: 1; font-size: 1rem; line-height: 1.6; color: var(--global-text-color);">
