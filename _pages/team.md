@@ -96,10 +96,21 @@ redirect_from:
     <img src="{{ site.baseurl }}/images/Sazzad.jpg"
          style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; display: block;"
          alt="Mohammed Sazzad Yousuf Sourab"/>
-    <p style="font-size: 16px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 0;">
+    <p style="font-size: 20px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 6px;">
       Mohammed Sazzad Yousuf Sourab<br>
-      <span style="font-size: 12px;">(Spring 2026 ~ present)</span>
+      <span style="font-size: 16px;">(Spring 2026 ~ present)</span>
     </p>
+    <!-- Social links -->
+    <div style="display: flex; justify-content: center; gap: 12px; margin-top: 6px;">
+      <a href="https://scholar.google.com/citations?user=nmRp_L8AAAAJ&hl=en" target="_blank" title="Google Scholar"
+         style="color: var(--global-text-color-light); text-decoration: none; font-size: 13px;">
+        <i class="ai ai-google-scholar"></i> Scholar
+      </a>
+      <a href="https://www.linkedin.com/in/mohammed-sazzad-yousuf-sourab-997622135/" target="_blank" title="LinkedIn"
+         style="color: var(--global-text-color-light); text-decoration: none; font-size: 13px;">
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+    </div>
   </div>
   <div style="flex: 1; font-size: 1rem; line-height: 1.6; color: var(--global-text-color);">
     Mohammed Sazzad Yousuf Sourab earned his Bachelor of Science in Electronics and Telecommunication Engineering from Chittagong University of Engineering & Technology (CUET), Bangladesh, and enrolled in his Master of Science in Information and Communication Technology (ICT) at the Institute of Information and Communication Technology (IICT), Bangladesh University of Engineering and Technology (BUET). In Spring 2026, he joined Lamar University as a Graduate Research Assistant and became a member of the High-performance Energy-efficient Secure Computer Architecture (HESCA) Research Lab. His research interests include GPU-accelerated computing, energy-efficient high-performance computing systems, secure computer architecture, and AI-driven optimization techniques for next-generation computing platforms. He is currently on study leave from his position as a Lecturer in the Department of Information and Communication Engineering at Daffodil International University (DIU).
