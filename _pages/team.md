@@ -75,7 +75,7 @@ His current work bridges quantum computing, quantum communication security, and 
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
-  <img src="{{ site.baseurl }}/images/Sazzad.jpeg"
+  <img src="{{ site.baseurl }}/images/Sazzad.jpg"
        style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; flex-shrink: 0;"
        alt="Mohammed Sazzad Yousuf Sourab"/>
   <div>
@@ -86,9 +86,18 @@ His current work bridges quantum computing, quantum communication security, and 
   </div>
 </div>
 
-- Faisal Ahmed Chowdhury (Spring 2026 ~ present)
-- Mohammed Sazzad Yousuf Sourab (Spring 2026 ~ present)
-- Mohammed Eshphaq Hossain (Spring 2026 ~ present)
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
+  <img src="{{ site.baseurl }}/images/Eshphaq.jpg"
+       style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; flex-shrink: 0;"
+       alt="Mohammed Eshphaq Hossain"/>
+  <div>
+    <!--<h4><a href="https://www.linkedin.com/in//">Faisal Ahmed Chowdhury </a></h4>-->
+    <p style="font-size: 18px; color: gray;">Mohammed Eshphaq Hossain (Spring 2026 ~ present)</p>
+    <p>Mohammed Eshphaq Hossain earned his Bachelor of Science in Electrical and Electronic Engineering from the Islamic University of Technology (IUT), Bangladesh, and his Master of Science in Electrical Engineering from the University of South Florida (USF), USA. In Spring 2026, he joined Lamar University as a doctoral student in the Department of Electrical and Computer Engineering and became a member of the High-performance Energy-efficient Secure Computer Architecture (HESCA) Research Lab. His research interests include machine learning, computer vision, AI-driven solutions for applications such as agricultural
+pest and disease detection, Smart agriculture with computer vision, Adversarial Attack detection in Vision language Models etc..
+</p>
+  </div>
+</div>
 
 
 ## MS Students
