@@ -11,7 +11,7 @@ redirect_from:
 ## Doctoral Students
 
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
-  <img src="{{ site.baseurl }}/images/faisal.jpg"
+  <img src="{{ site.baseurl }}/images/Faisal.jpg"
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 8px; flex-shrink: 0;"
        alt="Faisal Ahmed Chowdhury"/>
   <div>
