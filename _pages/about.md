@@ -60,7 +60,7 @@ I have published numerous scientific articles, including journal articles, confe
 --> 
 ## News
 - [Mar 2026] Attended [IBM Quantum Connect](https://www.ibm.com/events/reg/flow/ibm/3hqllqmb/landing/page/landing), an excellent event for networking with researchers from IBM and across the broader community who are working in quantum computing at different stages of their careers.  
-- [Feb 2026] Will be serving as a **Session Moderator** at [ISQED26](https://www.isqed.org/English/Archives/2026/Technical_Sessions/index.html). [Certificate of Recognition](https://drive.google.com/file/d/1icvL6GNcqsai--ZwekN-Gn7IotdIbDi6/view?usp=sharing)
+- [Feb 2026] Will be serving as a **Session Moderator** at [ISQED26](https://www.isqed.org/English/Collaterals/Documents/ISQED2026-Program-Booklet_rev1.pdf). [Certificate of Recognition](https://drive.google.com/file/d/1icvL6GNcqsai--ZwekN-Gn7IotdIbDi6/view?usp=sharing)
 - [Feb 2026] Will be serving as the **Publications Chair** for the **1st Gulf Coast Conference on Energy, Communications & Automation (GECA) 2027**, organized by the **IEEE Beaumont Section**.
 - [Jan 2026] Will be attending the [IEEE Sections Congress 2026](https://2026.sections-congress.ieee.org/about/area-information/) as the **Primary Section Delegate (PSD)** for the Beaumont Section.
 - [Nov 2025] Will be serving on the **technical program committee** for [SC26](https://supercomputing.org/), [CCGrid26](https://ccgrid2026.cdms.westernsydney.edu.au/program-committees.php), and [ISQED26](https://www.isqed.org/English/Conference/Committee_Conference_Technical.html).
