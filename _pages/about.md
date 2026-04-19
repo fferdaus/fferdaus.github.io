@@ -104,7 +104,7 @@ I have published numerous scientific articles, including journal articles, confe
 - [Sep 2015] Successfully defended my BSc thesis titled "Use of Spectral Overlapping in Special Applications".
 - [Dec 2013] Received Honorable Mention in the "Humanitarian Technology Project Idea Competition" at the IEEE Region-10 Women in Engineering (WIE) BD Congress 2013 (A Call of Engineering for Humanity).
 - [Dec 2013] Runner-up in the WIE Logo Design Competition at the 1st IEEE Region-10 WIE BD Congress 2013 (A Call of Engineering for Humanity).
-- [Jun 2012] Awarded Best Female Player at the BUET Chess Championship.
+- [Jun 2012] Awarded [Best Female Player](https://drive.google.com/file/d/1fbPmE8YjEm97j8WsIQAlppIfdX6sl6HX/view?usp=sharing) at the BUET Chess Championship.
 
 <!--
 - [Dec 2015] Started professional career as a Trainee Project Engineer (Electrical) at Janasheba Foundation–USTC.
