@@ -59,7 +59,7 @@ I have published numerous scientific articles, including journal articles, confe
 **Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh**
 --> 
 ## News
-- [Apr 2026] Two of my MS supervisees will present their posters at the [Lamar Graduate Research Conference](https://www.lamar.edu/graduate-studies/_files/documents/4th-annual-graduate-research-conference-program.pdf). Congratulations to Rayhan and Taher. Keep up the great work!
+- [Apr 2026] Two of my MS supervisees will be presenting their posters at the [Lamar Graduate Research Conference](https://www.lamar.edu/graduate-studies/_files/documents/4th-annual-graduate-research-conference-program.pdf). Great work, Rayhan and Taher. Keep it up!
 - [Apr 2026] Three of my co-supervised MS students successfully defended their theses. Congratulations to Abdur, Sultan, and Tasmina on your successful defenses, and best of luck in your new chapter!
 - [Mar 2026] Attended [IBM Quantum Connect](https://www.ibm.com/events/reg/flow/ibm/3hqllqmb/landing/page/landing), an excellent event for networking with researchers from IBM and across the broader community who are working in quantum computing at different stages of their careers.  
 - [Feb 2026] Will be serving as a **Session Moderator** at [ISQED26](https://www.isqed.org/English/Collaterals/Documents/ISQED2026-Program-Booklet_rev1.pdf). [Certificate of Recognition](https://drive.google.com/file/d/1icvL6GNcqsai--ZwekN-Gn7IotdIbDi6/view?usp=sharing)
