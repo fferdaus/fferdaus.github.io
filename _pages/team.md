@@ -161,9 +161,11 @@ redirect_from:
 </div>
 
 - Md Abu Taher (Spring 2026 ~ present)
-- Abdur Rahman (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
-- Md Sultan Mahamud (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
+
+## Lab Alumni (Graduated Students) 
+- Md Sultan Mahamud (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/)), Planning Engineer, [NYISO](https://www.nyiso.com/about-us).
 - Tasmina Imam (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
+- Abdur Rahman (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
 
 
 ## Meet the Team
