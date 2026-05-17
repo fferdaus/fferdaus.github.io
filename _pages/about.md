@@ -57,9 +57,11 @@ I have published numerous scientific articles, including journal articles, confe
 
 - **<span style="color:darkblue">Electrical Safety Engineer</span> (January 2016 - July 2017)**  
 **Stichting Bangladesh Accord Foundation, Dhaka, Bangladesh**
+
+<br> [Poster – Rayhan](https://lamar0-my.sharepoint.com/:b:/g/personal/fferdaus_lamar_edu/IQDJAmfeKdWtRoJOF0tiFMUCAV5S6lzGjz5sl6GAh_drQu0?e=ODjbzc) \| [Poster – Taher](https://lamar0-my.sharepoint.com/:b:/g/personal/fferdaus_lamar_edu/IQDaqvUznGsSSbnXCy_U9GppAXAiHoaEPJ6QIkLvs-92vq0?e=bWgcDz)
 --> 
 ## News
-- [Apr 2026] Two of my MS supervisees, Rayhan and Taher, will be presenting their posters at the [Lamar Graduate Research Conference 2026](https://www.lamar.edu/graduate-studies/_files/documents/4th-annual-graduate-research-conference-program.pdf). Great work and keep it up!<br> [Poster – Rayhan](https://lamar0-my.sharepoint.com/:b:/g/personal/fferdaus_lamar_edu/IQDJAmfeKdWtRoJOF0tiFMUCAV5S6lzGjz5sl6GAh_drQu0?e=ODjbzc) \| [Poster – Taher](https://lamar0-my.sharepoint.com/:b:/g/personal/fferdaus_lamar_edu/IQDaqvUznGsSSbnXCy_U9GppAXAiHoaEPJ6QIkLvs-92vq0?e=bWgcDz)
+- [Apr 2026] Two of my MS supervisees, Rayhan and Taher, will be presenting their posters at the [Lamar Graduate Research Conference 2026](https://www.lamar.edu/graduate-studies/_files/documents/4th-annual-graduate-research-conference-program.pdf). Great work and keep it up!
 - [Apr 2026] Three of my co-supervised MS students successfully defended their theses. Congratulations to Abdur, Sultan, and Tasmina on your successful defenses, and best of luck in your new chapter!
 - [Mar 2026] Attended [IBM Quantum Connect](https://www.ibm.com/events/reg/flow/ibm/3hqllqmb/landing/page/landing), an excellent event for networking with researchers from IBM and across the broader community who are working in quantum computing at different stages of their careers.  
 - [Feb 2026] Will be serving as a **Session Moderator** at [ISQED26](https://www.isqed.org/English/Collaterals/Documents/ISQED2026-Program-Booklet_rev1.pdf). [Certificate of Recognition](https://drive.google.com/file/d/1icvL6GNcqsai--ZwekN-Gn7IotdIbDi6/view?usp=sharing)
