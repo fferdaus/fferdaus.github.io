@@ -167,25 +167,25 @@ redirect_from:
 - Tasmina Imam (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
 - Abdur Rahman (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
 
-<div style="text-align: center;">
-  <img src="{{ base_path }}/images/alumni_sp26.jpg" alt="Alumni_Sp26" width="400">
+<div style="text-align: left;">
+  <img src="{{ base_path }}/images/alumni_sp26.jpg" alt="Alumni_Sp26" width="600">
 </div>
 
 
 ## Meet the Team
-
+<!--
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="{{ base_path }}/images/team2.jpg" alt="Research Team" width="400">
   <img src="{{ base_path }}/images/team.jpg" alt="Research Team" width="400">
 </div>
+-->
 
-<!--
 <div style="text-align: center;">
-  <img src="{{ base_path }}/images/team2.jpg" alt="Research Team" width="800">
+  <img src="{{ base_path }}/images/team2.jpg" alt="Research Team" width="600">
 </div>
  
 <div style="text-align: center;">
-  <img src="{{ base_path }}/images/team.jpg" alt="Research Team" width="800">
+  <img src="{{ base_path }}/images/team.jpg" alt="Research Team" width="600">
 </div>
--->
+
 
