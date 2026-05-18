@@ -174,6 +174,12 @@ redirect_from:
 
 ## Meet the Team
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="{{ base_path }}/images/team2.jpg" alt="Research Team" width="400">
+  <img src="{{ base_path }}/images/team.jpg" alt="Research Team" width="400">
+</div>
+
+<!--
 <div style="text-align: center;">
   <img src="{{ base_path }}/images/team2.jpg" alt="Research Team" width="800">
 </div>
@@ -181,5 +187,5 @@ redirect_from:
 <div style="text-align: center;">
   <img src="{{ base_path }}/images/team.jpg" alt="Research Team" width="800">
 </div>
-
+-->
 
