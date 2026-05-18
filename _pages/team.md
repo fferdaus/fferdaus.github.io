@@ -167,6 +167,10 @@ redirect_from:
 - Tasmina Imam (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
 - Abdur Rahman (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
 
+<div style="text-align: center;">
+  <img src="{{ base_path }}/images/alumni_sp26.jpg" alt="Alumni_Sp26" width="800">
+</div>
+
 
 ## Meet the Team
 
