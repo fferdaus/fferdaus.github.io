@@ -180,11 +180,11 @@ redirect_from:
 </div>
 -->
 
-<div style="text-align: center;">
+<div style="text-align: left;">
   <img src="{{ base_path }}/images/team2.jpg" alt="Research Team" width="600">
 </div>
  
-<div style="text-align: center;">
+<div style="text-align: left;">
   <img src="{{ base_path }}/images/team.jpg" alt="Research Team" width="600">
 </div>
 
