@@ -61,6 +61,7 @@ I have published numerous scientific articles, including journal articles, confe
 <br> [Poster – Rayhan](https://lamar0-my.sharepoint.com/:b:/g/personal/fferdaus_lamar_edu/IQDJAmfeKdWtRoJOF0tiFMUCAV5S6lzGjz5sl6GAh_drQu0?e=ODjbzc) \| [Poster – Taher](https://lamar0-my.sharepoint.com/:b:/g/personal/fferdaus_lamar_edu/IQDaqvUznGsSSbnXCy_U9GppAXAiHoaEPJ6QIkLvs-92vq0?e=bWgcDz)
 --> 
 ## News
+- [May 2026] Our poster, **ML-Based Technique for Quantum Fidelity Improvement**, has been accepted for presentation at the [Quantum Computing User Forum (QUCF)](https://www.olcf.ornl.gov/calendar/2026-quantum-computing-user-forum/) 2026 hosted by Oak Ridge National Laboratory.
 - [Apr 2026] Two of my MS supervisees, Rayhan and Taher, will be presenting their posters at the [Lamar Graduate Research Conference 2026](https://www.lamar.edu/graduate-studies/_files/documents/4th-annual-graduate-research-conference-program.pdf). Great work and keep it up!
 - [Apr 2026] Three of my co-supervised MS students successfully defended their theses. Congratulations to Abdur, Sultan, and Tasmina on your successful defenses, and best of luck in your new chapter!
 - [Mar 2026] Attended [IBM Quantum Connect](https://www.ibm.com/events/reg/flow/ibm/3hqllqmb/landing/page/landing), an excellent event for networking with researchers from IBM and across the broader community who are working in quantum computing at different stages of their careers.  
