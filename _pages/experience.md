@@ -16,7 +16,7 @@ redirect_from:
 
 * **<span style="color:darkblue">Lamar University, Beaumont, TX, USA</span>**  
   * Assistant Professor (August 2025 – Present) in the Department of Electrical and Computer Engineering
-  * Conducting research in quantum computing
+  * Conducting research in secure, energy-efficient high-performance computing, quantum computing, AI applications in agriculture, green energy, and related areas.
 
 * **<span style="color:darkblue">Argonne National Laboratory, Lemont, IL, USA (Remote)</span>**  
   * Postdoctoral Researcher (February 2023 – August 2025) in the Mathematics and Computer Science (MCS) Division
@@ -65,13 +65,14 @@ redirect_from:
      * **Argonne Leadership Computing Facility**: Polaris, Sophia (previously ThetaGPU) and JLSE
      * **University of Alabama in Huntsville (UAH)**: UAH Jetson Cluster, Alabama Supercomputer Authority's Dense Memory Cluster    
  - **Machine Learning and Data Science**: PyTorch, NumPy
+ - **System Profiling tools**: nvidia-smi, amd-smi, hl-smi, gc-monitor, perf, htop, VTune Profiler
  - **HDL Synthesis**: Intel Quartus Prime, Xilinx ISE, Xilinx Vivado, ModelSim (w. Verilog/SystemVerilog, VHDL)
  - **Embedded System**: Arduino, AVR Microcontroller
  - **Microarchitecture and ISA**: MIPS, RISC-V
  - **Modeling and Simulation**: OrCAD PSpice, Multi2Sim, Proteus, NI Multisim, Simulink
  - **EDA Tools**: RTL Compiler Ultra, Cadence Virtuoso, Assura, EDI-Encounter by Cadence
  - **Software-defined Radio**: Universal Software Radio Peripheral (USRP) by Ettus, GNU Radio, OpenBTS
- - **Misc.**: Docker/Apptainer, Microsoft Azure, NIST Statistical Test Suite, Wireshark (network analyzer), VTune Profiler (performance analyzer)
+ - **Misc.**: Docker/Apptainer, Microsoft Azure, NIST Statistical Test Suite, Wireshark (network analyzer)
 
 <!-- - **Optimization Tools**: nvidia-smi, amd-smi, hl-smi, gc-monitor, perf, htop-->
 
@@ -89,7 +90,7 @@ redirect_from:
    * Argonne National Laboratory: Murali Emani, Venkatram Vishwanath, Xingfu Wu, Krishna Teja Chitty-Venkata, Siddhisanket Raskar, Bharat Kale, Aditya Tanikanti, Ken Raffenetti, Wilkie Olin-Ammentorp
    * University of Alabama in Huntsville: Aubrey Beal, B. M. S. Bahar Talukder, Md Imtiaz Rashid, Md Kawser Bepary, Sadman Sakib
    * University of New Hampshire: Jean L. Kubwimana, Omid M. Kandelusy
-   * External: Mehdi Sadi (Auburn), Zhiling Lan (UIC), Sanjif Shanmugavelu (Groq), Sylvia Howland (Cerebras), Md. Saifur Rahman (BUET), Shahnewaz Sakib (UTC)
+   * External:  Mohammad Atiqul Islam (UTA), Effat Farhana (Auburn), M Al Mamun (PNNL), Mehdi Sadi (Auburn), Zhiling Lan (UIC), Sanjif Shanmugavelu (Groq), Sylvia Howland (Cerebras), Md. Saifur Rahman (BUET), Shahnewaz Sakib (UTC)
  - **Mentees**
    * Goutham Kalikrishna Reddy Kuncham, PhD Student, Ohio State University
    * Budvin Edippuliarachchi, PhD Student, Tufts University
