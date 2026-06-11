@@ -16,6 +16,7 @@ redirect_from:
 - IEEE Transactions on Sustainable Computing (TSUSC)
 - Springer Nature
 - IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid)
+- IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 
 - IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST)
 - IEEE International Symposium on Quality Electronic Design (ISQED)
 - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
