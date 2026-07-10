@@ -166,8 +166,10 @@ redirect_from:
 - **Md Sultan Mahamud**, M.S. (Spring 2026)<br>
   Thesis: "Real-Time Load Current Monitoring of Overhead Lines Using GMR Sensors" (Co-advisor [Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))<br>
   Current Position: Planning Engineer, [NYISO](https://www.nyiso.com/about-us)
+  
 - **Tasmina Imam**, M.S. (Spring 2026)<br>
-  Thesis: "Netload Forecasting Under Uncertainty with Statistical and Learning-Based Models"  (Co-advisor [Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
+  Thesis: "Netload Forecasting Under Uncertainty with Statistical and Learning-Based Models"  (Co-advisor [Anwarul Sifat](https://www.linkedin.com/in/aisifat/))
+  
 - **Abdur Rahman**, M.S. (Spring 2026)<br>
   Thesis: "Electrical Fault Signature Diagnosis Using Edge Computing Unit"  (Co-advisor [Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
 
