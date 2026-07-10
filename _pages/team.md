@@ -165,27 +165,27 @@ redirect_from:
 ## Lab Alumni (Graduated Students)
 <div class="alumni-list">
 
-    <div class="alumni-card">
-      <h3>Md Sultan Mahamud</h3>
-      <p class="thesis-title">Thesis: "Real-Time Load Current Monitoring of Overhead Lines Using GMR Sensors"</p>
-      <p class="grad-info">M.S., Graduated: Spring 2026</p>
-      <p class="co-advisor">Co-advisor: <a href="https://www.linkedin.com/in/aisifat/" target="_blank" rel="noopener">Anwarul Islam Sifat</a></p>
-      <p class="current-position">Current Position: Planning Engineer, <a href="https://www.nyiso.com/about-us" target="_blank" rel="noopener">NYISO</a></p>
-    </div>
+  <div class="alumni-card">
+    <h3>Md Sultan Mahamud</h3>
+    <p class="thesis-title">Thesis: "Real-Time Load Current Monitoring of Overhead Lines Using GMR Sensors"</p>
+    <p class="grad-info">M.S., Graduated: Spring 2026</p>
+    <p class="co-advisor">Co-advisor: <a href="https://www.linkedin.com/in/aisifat/" target="_blank" rel="noopener">Anwarul Islam Sifat</a></p>
+    <p class="current-position">Current Position: Planning Engineer, <a href="https://www.nyiso.com/about-us" target="_blank" rel="noopener">NYISO</a></p>
+  </div>
 
-    <div class="alumni-card">
-      <h3>Tasmina Imam</h3>
-      <p class="thesis-title">Thesis: "Netload Forecasting Under Uncertainty with Statistical and Learning-Based Models"</p>
-      <p class="grad-info">M.S., Graduated: Spring 2026</p>
-      <p class="co-advisor">Co-advisor: <a href="https://www.linkedin.com/in/aisifat/" target="_blank" rel="noopener">Anwarul Islam Sifat</a></p>
-    </div>
+  <div class="alumni-card">
+    <h3>Tasmina Imam</h3>
+    <p class="thesis-title">Thesis: "Netload Forecasting Under Uncertainty with Statistical and Learning-Based Models"</p>
+    <p class="grad-info">M.S., Graduated: Spring 2026</p>
+    <p class="co-advisor">Co-advisor: <a href="https://www.linkedin.com/in/aisifat/" target="_blank" rel="noopener">Anwarul Islam Sifat</a></p>
+  </div>
 
-    <div class="alumni-card">
-      <h3>Abdur Rahman</h3>
-      <p class="thesis-title">Thesis: "Electrical Fault Signature Diagnosis Using Edge Computing Unit"</p>
-      <p class="grad-info">M.S., Graduated: Spring 2026</p>
-      <p class="co-advisor">Co-advisor: <a href="https://www.linkedin.com/in/aisifat/" target="_blank" rel="noopener">Anwarul Islam Sifat</a></p>
-    </div>
+  <div class="alumni-card">
+    <h3>Abdur Rahman</h3>
+    <p class="thesis-title">Thesis: "Electrical Fault Signature Diagnosis Using Edge Computing Unit"</p>
+    <p class="grad-info">M.S., Graduated: Spring 2026</p>
+    <p class="co-advisor">Co-advisor: <a href="https://www.linkedin.com/in/aisifat/" target="_blank" rel="noopener">Anwarul Islam Sifat</a></p>
+  </div>
     
 </div>
 
