@@ -164,10 +164,10 @@ redirect_from:
 
 ## Lab Alumni (Graduated Students)
 - Md Sultan Mahamud
-Thesis: "Real-Time Load Current Monitoring of Overhead Lines Using GMR Sensors"  
-M.S., Graduated: Spring 2026  
-Co-advisor: [Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/)  
-Current Position: Planning Engineer, [NYISO](https://www.nyiso.com/about-us)
+  Thesis: "Real-Time Load Current Monitoring of Overhead Lines Using GMR Sensors"  
+  M.S., Graduated: Spring 2026  
+  Co-advisor: [Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/)  
+  Current Position: Planning Engineer, [NYISO](https://www.nyiso.com/about-us)
 
 <div class="alumni-list">
 
