@@ -162,7 +162,7 @@ redirect_from:
 
 - Md Abu Taher (Spring 2026 ~ present)
 
-## Lab Alumni (Graduated Students) 
+<!-- ## Lab Alumni (Graduated Students) -->
 <section id="alumni" class="lab-alumni">
   <h2>Lab Alumni</h2>
   <div class="alumni-list">
