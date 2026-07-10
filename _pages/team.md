@@ -171,7 +171,8 @@ redirect_from:
       <h3>Md Sultan Mahamud</h3>
       <p class="thesis-title">Thesis: "Real-Time Load Current Monitoring of Overhead Lines Using GMR Sensors"</p>
       <p class="grad-info">M.S., Graduated: Spring 2026</p>
-      <p class="current-position">Current Position: Planning Engineer, [NYISO](https://www.nyiso.com/about-us)</p>
+      <p class="co-advisor">Co-advisor: [Name]</p>
+      <p class="current-position">Current Position: Planning Engineer, <a href="https://www.nyiso.com/about-us" target="_blank" rel="noopener">NYISO</a></p>
     </div>
 
     <div class="alumni-card">
