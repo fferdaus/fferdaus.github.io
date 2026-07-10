@@ -163,35 +163,13 @@ redirect_from:
 - Md Abu Taher (Spring 2026 ~ present)
 
 ## Lab Alumni (Graduated Students)
-- Md Sultan Mahamud, M.S., (Spring 2026)<br>
-  Thesis: "Real-Time Load Current Monitoring of Overhead Lines Using GMR Sensors"  (Co-advisor [Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))<br>
+- **Md Sultan Mahamud**, M.S. (Spring 2026)<br>
+  Thesis: "Real-Time Load Current Monitoring of Overhead Lines Using GMR Sensors" (Co-advisor [Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))<br>
   Current Position: Planning Engineer, [NYISO](https://www.nyiso.com/about-us)
-
-<div class="alumni-list">
-
-  <div class="alumni-card">
-    <h3>Md Sultan Mahamud</h3>
-    <p class="thesis-title">Thesis: "Real-Time Load Current Monitoring of Overhead Lines Using GMR Sensors"</p>
-    <p class="grad-info">M.S., Graduated: Spring 2026</p>
-    <p class="co-advisor">Co-advisor: <a href="https://www.linkedin.com/in/aisifat/" target="_blank" rel="noopener">Anwarul Islam Sifat</a></p>
-    <p class="current-position">Current Position: Planning Engineer, <a href="https://www.nyiso.com/about-us" target="_blank" rel="noopener">NYISO</a></p>
-  </div>
-
-  <div class="alumni-card">
-    <h3>Tasmina Imam</h3>
-    <p class="thesis-title">Thesis: "Netload Forecasting Under Uncertainty with Statistical and Learning-Based Models"</p>
-    <p class="grad-info">M.S., Graduated: Spring 2026</p>
-    <p class="co-advisor">Co-advisor: <a href="https://www.linkedin.com/in/aisifat/" target="_blank" rel="noopener">Anwarul Islam Sifat</a></p>
-  </div>
-
-  <div class="alumni-card">
-    <h3>Abdur Rahman</h3>
-    <p class="thesis-title">Thesis: "Electrical Fault Signature Diagnosis Using Edge Computing Unit"</p>
-    <p class="grad-info">M.S., Graduated: Spring 2026</p>
-    <p class="co-advisor">Co-advisor: <a href="https://www.linkedin.com/in/aisifat/" target="_blank" rel="noopener">Anwarul Islam Sifat</a></p>
-  </div>
-    
-</div>
+- **Tasmina Imam**, M.S. (Spring 2026)<br>
+  Thesis: "Netload Forecasting Under Uncertainty with Statistical and Learning-Based Models"  (Co-advisor [Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
+- **Abdur Rahman**, M.S. (Spring 2026)<br>
+  Thesis: "Electrical Fault Signature Diagnosis Using Edge Computing Unit"  (Co-advisor [Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/))
 
 <!--
 - Md Sultan Mahamud (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/)), Planning Engineer at [NYISO](https://www.nyiso.com/about-us).
