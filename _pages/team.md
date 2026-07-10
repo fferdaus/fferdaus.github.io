@@ -163,7 +163,7 @@ redirect_from:
 - Md Abu Taher (Spring 2026 ~ present)
 
 ## Lab Alumni (Graduated Students)
-- Md Sultan Mahamud
+- Md Sultan Mahamud<br>
   Thesis: "Real-Time Load Current Monitoring of Overhead Lines Using GMR Sensors"  
   M.S., Graduated: Spring 2026  
   Co-advisor: [Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/)  
