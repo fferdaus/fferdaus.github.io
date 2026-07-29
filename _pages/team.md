@@ -160,9 +160,31 @@ redirect_from:
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
+  <div style="flex-shrink: 0; width: 240px; text-align: center;">
+    <img src="{{ site.baseurl }}/images/Taher.jpeg"
+         style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; display: block;"
+         alt="Md. Abu Taher"/>
+    <p style="font-size: 18px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 6px;">
+      Md. Abu Taher<br>
+      <span style="font-size: 16px;">(Spring 2026 ~ present)</span>
+    </p>
+    <!-- Social links -->
+    <div style="display: flex; justify-content: center; gap: 12px; margin-top: 6px;">
+      <a href="https://www.linkedin.com/in/md-abu-taher-86753879/" target="_blank" title="LinkedIn"
+         style="color: var(--global-text-color-light); text-decoration: none; font-size: 13px;">
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+    </div>
+  </div>
+  <div style="flex: 1; font-size: 1rem; line-height: 1.6; color: var(--global-text-color);">
+    Md. Abu Taher is a graduate student in the Department of Electrical and Computer Engineering at Lamar University, pursuing a Master of Engineering Science in Electrical Engineering. His research focuses on deep learning (DL) for environmental monitoring and intelligent forecasting. He is investigating the spatial transferability of DL models for cross-site phycocyanin forecasting using LSTM, GRU, and hybrid architectures. His work involves environmental data processing, time-series forecasting, uncertainty analysis, and predictive modeling. Before joining Lamar University, he gained more than 12 years of industrial experience in energy and manufacturing. His research interests include artificial intelligence and machine learning.
+  </div>
+</div>
+
 - Md Abu Taher (Spring 2026 ~ present)
 
-## Lab Alumni (Graduated Students)
+## Lab Alumni
 - **Md Sultan Mahamud**, M.S. (Spring 2026)<br>
   Thesis: "*Real-Time Load Current Monitoring of Overhead Lines Using GMR Sensors*" (Co-advisor [Anwarul Sifat](https://www.linkedin.com/in/aisifat/))<br>
   Current Position: Planning Engineer, [NYISO](https://www.nyiso.com/about-us)
