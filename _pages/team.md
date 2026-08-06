@@ -182,6 +182,29 @@ redirect_from:
   </div>
 </div>
 
+## Undergraduate Students
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
+  <div style="flex-shrink: 0; width: 240px; text-align: center;">
+    <img src="{{ site.baseurl }}/images/Jaejun.jpg"
+         style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; display: block;"
+         alt="Jaejun Lee"/>
+    <p style="font-size: 18px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 6px;">
+      Jaejun Lee<br>
+      <span style="font-size: 16px;">(Fall 2026 ~ present)</span>
+    </p>
+    <!-- Social links -->
+    <div style="display: flex; justify-content: center; gap: 12px; margin-top: 6px;">
+      <a href="https://www.linkedin.com/in/jaejun-lee-cosmos/" target="_blank" title="LinkedIn"
+         style="color: var(--global-text-color-light); text-decoration: none; font-size: 13px;">
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+    </div>
+  </div>
+  <div style="flex: 1; font-size: 1rem; line-height: 1.6; color: var(--global-text-color);">
+    Jaejun Lee is an undergraduate exchange student and an Undergraduate Research Assistant in the Department of Electrical and Computer Engineering at Lamar University. He is from Chungnam National University, South Korea, majoring in Electronic Engineering. His research focuses on emerging technologies, particularly quantum computing and hardware security.
+  </div>
+</div>
+
 ## Lab Alumni
 - **Md Sultan Mahamud**, M.S. (Spring 2026)<br>
   Thesis: "*Real-Time Load Current Monitoring of Overhead Lines Using GMR Sensors*" (Co-advisor [Anwarul Sifat](https://www.linkedin.com/in/aisifat/))<br>
