@@ -183,6 +183,7 @@ redirect_from:
 </div>
 
 ## Undergraduate Students
+
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
   <div style="flex-shrink: 0; width: 240px; text-align: center;">
     <img src="{{ site.baseurl }}/images/Jaejun.jpg"
