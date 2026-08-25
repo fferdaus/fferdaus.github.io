@@ -17,6 +17,7 @@ redirect_from:
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Computers (TC)
 - Springer Nature
+- ACM Transactions on Embedded Computing Systems (TECS)
 - IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid)
 - IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 
 - IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST)
