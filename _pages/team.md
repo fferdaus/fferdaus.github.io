@@ -215,7 +215,7 @@ redirect_from:
   Thesis: "*Netload Forecasting Under Uncertainty with Statistical and Learning-Based Models*"  (Co-advisor [Anwarul Sifat](https://www.linkedin.com/in/aisifat/))
   
 - **Abdur Rahman**, M.S. (Spring 2026)<br>
-  Thesis: "*Electrical Fault Signature Diagnosis Using Edge Computing Unit*"  (Co-advisor [Anwarul Sifat](https://www.linkedin.com/in/aisifat/))
+  Thesis: "*Electrical Fault Signature Diagnosis Using Edge Computing Unit*"  (Co-advisor [Anwarul Sifat](https://www.linkedin.com/in/aisifat/))<br>
   Current Position: Equipment Engineer, [Tesla](https://www.tesla.com/)
 
 <!--
