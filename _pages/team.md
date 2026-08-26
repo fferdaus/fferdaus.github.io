@@ -216,6 +216,7 @@ redirect_from:
   
 - **Abdur Rahman**, M.S. (Spring 2026)<br>
   Thesis: "*Electrical Fault Signature Diagnosis Using Edge Computing Unit*"  (Co-advisor [Anwarul Sifat](https://www.linkedin.com/in/aisifat/))
+  Current Position: Equipment Engineer, [Tesla](https://www.tesla.com/)
 
 <!--
 - Md Sultan Mahamud (Co-supervisor [Dr. Anwarul Islam Sifat](https://www.linkedin.com/in/aisifat/)), Planning Engineer at [NYISO](https://www.nyiso.com/about-us).
