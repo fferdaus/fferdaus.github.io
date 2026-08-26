@@ -61,7 +61,7 @@ I have published numerous scientific articles, including journal articles, confe
 <br> [Poster – Rayhan](https://lamar0-my.sharepoint.com/:b:/g/personal/fferdaus_lamar_edu/IQDJAmfeKdWtRoJOF0tiFMUCAV5S6lzGjz5sl6GAh_drQu0?e=ODjbzc) \| [Poster – Taher](https://lamar0-my.sharepoint.com/:b:/g/personal/fferdaus_lamar_edu/IQDaqvUznGsSSbnXCy_U9GppAXAiHoaEPJ6QIkLvs-92vq0?e=bWgcDz)
 --> 
 ## News
-- [Aug 2026] Our poster, **A Side-Channel Methodology for DL Model Recovery Using Power Traces**, has been accepted for presentation at the TACC Symposium for Texas Researchers (TACCSTER 2026) organized by the Texas Advanced Computing Center (TACC).
+- [Aug 2026] Our poster, **A Side-Channel Methodology for DL Model Recovery Using Power Traces**, has been accepted for presentation at the [TACC Symposium for Texas Researchers (TACCSTER 2026)]9https://tacc.utexas.edu/taccster/2026/) organized by the Texas Advanced Computing Center (TACC).
 - [Aug 2026] Will attend the NSF SaTC Aspiring PI Workshop in Washington, DC, focused on developing competitive proposals and gaining insights into the NSF SaTC review process.
 - [Jul 2026] Selected as a 2026–2027 Trusted CI Fellow — [Trusted CI Fellowship Program](https://trustedci.org/fellows) supporting cybersecurity leadership, outreach, and workforce development in the research community. [Link](https://www.trustedci.org/2026-fellows)
 - [Jul 2026] Our poster, **Machine Learning–Enhanced Adaptive Fidelity Optimization in W-State Quantum Teleportation**," won the 🏆 **Best Poster Award** 🏆 at the [QCUF](https://www.olcf.ornl.gov/calendar/2026-quantum-computing-user-forum/) 2026, organized by Oak Ridge National Lab. [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7486160842829369344/)
