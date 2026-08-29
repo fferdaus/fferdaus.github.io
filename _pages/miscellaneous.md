@@ -11,6 +11,7 @@ redirect_from:
 ## Review Activities
 
 - Guest Editor for the special issue titled "Energy-Aware Computing for AI Accelerators in Machine Learning" in Information (ISSN 2078-2489)
+- Guest Editor Assistant for the special issue "Sensor and Internet of Things System Security: Attacks and Defenses" in the journal Sensors (IF: 4.0)
 - U.S. Department of Energy (DOE) Workforce Development for Teachers and Scientists (WDTS) Summer 2025 Visiting Faculty Program (VFP) Project Proposal Review Committee
 - IEEE Transactions on Emerging Topics in Computing (TETC)
 - IEEE Transactions on Sustainable Computing (TSUSC)
