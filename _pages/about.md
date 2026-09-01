@@ -62,7 +62,7 @@ I have published numerous scientific articles, including journal articles, confe
 --> 
 ## News
 - [Aug 2026] Our poster, **A Side-Channel Methodology for DL Model Recovery Using Power Traces**, has been accepted for presentation at the [TACC Symposium for Texas Researchers (TACCSTER 2026)](https://tacc.utexas.edu/taccster/2026/) organized by the Texas Advanced Computing Center (TACC).
-- [Aug 2026] Will attend the NSF SaTC Aspiring PI Workshop in Washington, DC, focused on developing competitive proposals and gaining insights into the NSF SaTC review process.
+- [Aug 2026] Selected (from a pool of 350 top applicants) to attend the [NSF SaTC Aspiring PI Workshop](https://nsfsatcaspiringpi2026.cs.jhu.edu/) in Washington, DC, focused on developing competitive proposals and gaining valuable insights into the NSF SaTC review process.
 - [Jul 2026] Selected as a 2026–2027 **NSF Trusted CI Fellow** — [Trusted CI Fellowship Program](https://trustedci.org/fellows) supporting cybersecurity leadership, outreach, and workforce development in the research community. [Link](https://www.trustedci.org/2026-fellows)
 - [Jul 2026] Our poster, **Machine Learning–Enhanced Adaptive Fidelity Optimization in W-State Quantum Teleportation**," won the 🏆 **Best Poster Award** 🏆 at the [QCUF](https://www.olcf.ornl.gov/calendar/2026-quantum-computing-user-forum/) 2026, organized by Oak Ridge National Lab. [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7486160842829369344/)
 - [Jul 2026] Two papers from our lab have been accepted at [IEEE NAPS26](https://www.mtu.edu/ece/naps-2026/) — marking our lab's first collaboration with [PNNL](https://www.pnnl.gov) and [ERCOT](https://www.ercot.com)!
