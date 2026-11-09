@@ -88,8 +88,8 @@ redirect_from:
     * MSc Thesis Committee: John R. LaCourse, Edward Song
  - **Collaborators/Teammates**
    * Argonne National Laboratory: Murali Emani, Venkatram Vishwanath, Xingfu Wu, Krishna Teja Chitty-Venkata, Siddhisanket Raskar, Bharat Kale, Aditya Tanikanti, Ken Raffenetti, Wilkie Olin-Ammentorp
-   * University of Alabama in Huntsville: Aubrey Beal, B. M. S. Bahar Talukder, Md Imtiaz Rashid, Md Kawser Bepary, Sadman Sakib
-   * University of New Hampshire: Jean L. Kubwimana, Omid M. Kandelusy
+   * University of Alabama in Huntsville: Aubrey Beal (UAH), B. M. S. Bahar Talukder (Apple), Md Imtiaz Rashid (Texas Instruments), Md Kawser Bepary (Caspia Technologies), Sadman Sakib (Solidigm)
+   * University of New Hampshire: Jean L. Kubwimana (BAE Systems), Omid M. Kandelusy (PassiveLogic)
    * External:  Mohammad Atiqul Islam (UTA), Effat Farhana (Auburn), Evangelos Miliordos (Auburn), M Al Mamun (PNNL), Sharmin Afrose (ORNL), Yubin Yang (TAMU AgriLife Research & Extension Center), Nazmul Kabir Sikder (ODU), Mohammad GhasemiGol (ODU), Kuan-Hao Huang (TAMU), Avdesh Mishra (TAMUK), Tarek Mahmud (TAMUK), Mehdi Sadi (Auburn), Zhiling Lan (UIC), Sanjif Shanmugavelu (Groq), Sylvia Howland (Cerebras), Md. Saifur Rahman (BUET), Shahnewaz Sakib (UTC), Anindya Bijoy Das (UA), Anwarul Islam Sifat (ERCOT)
  - **Mentees**
    * Goutham Kalikrishna Reddy Kuncham, PhD Student, Ohio State University
