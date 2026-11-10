@@ -62,7 +62,7 @@ I have published numerous scientific articles, including journal articles, confe
 --> 
 ## News
 - [Nov 2026] Our paper, **Horizon-Adaptive Residual Learning for Multi-Horizon Phycocyanin Forecasting**, has been accepted at [IEEE SSCI27](https://attend.ieee.org/ssci-2027/) — marking our lab's first collaboration with [ODU](https://www.odu.edu/)!
-- [Oct 2025] Will **mentor** three Ph.D. students at [SC26](https://sc26.supercomputing.org/students/mentor-protege-matching/).
+- [Oct 2026] Will **mentor** three Ph.D. students at [SC26](https://sc26.supercomputing.org/students/mentor-protege-matching/).
 - [Aug 2026] Our poster, **A Side-Channel Methodology for DL Model Recovery Using Power Traces**, has been accepted for presentation at the [International Conference for High Performance Computing, Networking, Storage, and Analysis (SC26)](https://sc26.supercomputing.org/).
 <!--- Our poster, **A Side-Channel Methodology for DL Model Recovery Using Power Traces**, has been accepted for presentation at the [TACC Symposium for Texas Researchers (TACCSTER 2026)](https://tacc.utexas.edu/taccster/2026/) organized by the Texas Advanced Computing Center (TACC).--> 
 - [Aug 2026] Selected (from a pool of 350 top applicants) to attend the [NSF SaTC Aspiring PI Workshop](https://nsfsatcaspiringpi2026.cs.jhu.edu/) in Washington, DC, focused on developing competitive proposals and gaining valuable insights into the NSF SaTC review process.
