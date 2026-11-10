@@ -134,6 +134,7 @@ redirect_from:
 
 
 ## MS Students
+<!--
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
   <div style="flex-shrink: 0; width: 240px; text-align: center;">
     <img src="{{ site.baseurl }}/images/Rayhan.jpeg"
@@ -159,7 +160,7 @@ redirect_from:
     Md. Rayhan Chowdhury is a graduate student in the Department of Electrical and Computer Engineering at Lamar University and a member of the High-Performance Energy-Efficient Secure Computer Architecture (HESCA) Research Lab. His work focuses on solar power forecasting using machine learning and deep learning, with future research interest in building AI models for fault detection, cybersecurity, and net load forecasting to improve grid resiliency. He earned his B.Sc. from Rajshahi University of Engineering and Technology (RUET), Bangladesh, in 2011, and has 12 years of experience in power plant erection & commissioning, consumer electronics, and electric vehicle product management. His expertise includes ETAP and PSCAD-based transient instability analysis and power system modeling.
   </div>
 </div>
-
+-->
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
   <div style="flex-shrink: 0; width: 240px; text-align: center;">
     <img src="{{ site.baseurl }}/images/Taher.jpeg"
