@@ -182,7 +182,7 @@ redirect_from:
 
 ## Lab Alumni
 - **Md Rayhan Chowdhury**, M.S. (Fall 2026)<br>
-  Thesis: "* Multi-Day Horizon Solar Power Forecasting Using Machine Learning and Optimization through Data Preprocessing*"
+  Thesis: "*Multi-Day Horizon Solar Power Forecasting Using Machine Learning and Optimization through Data Preprocessing*"
   
 - **Md Sultan Mahamud**, M.S. (Spring 2026)<br>
   Thesis: "*Real-Time Load Current Monitoring of Overhead Lines Using GMR Sensors*" (Co-advisor [Anwarul Sifat](https://www.linkedin.com/in/aisifat/))<br>
