@@ -61,7 +61,7 @@ I have published numerous scientific articles, including journal articles, confe
 <br> [Poster – Rayhan](https://lamar0-my.sharepoint.com/:b:/g/personal/fferdaus_lamar_edu/IQDJAmfeKdWtRoJOF0tiFMUCAV5S6lzGjz5sl6GAh_drQu0?e=ODjbzc) \| [Poster – Taher](https://lamar0-my.sharepoint.com/:b:/g/personal/fferdaus_lamar_edu/IQDaqvUznGsSSbnXCy_U9GppAXAiHoaEPJ6QIkLvs-92vq0?e=bWgcDz)
 --> 
 ## News
-- [Nov 2026] Our paper titled "Horizon-Adaptive Residual Learning for Multi-Horizon Phycocyanin Forecasting" has been accepted at [IEEE SSCI27](https://attend.ieee.org/ssci-2027/) — marking our lab's first collaboration with [ODU](https://www.odu.edu/)!
+- [Nov 2026] Our paper, **Horizon-Adaptive Residual Learning for Multi-Horizon Phycocyanin Forecasting**, has been accepted at [IEEE SSCI27](https://attend.ieee.org/ssci-2027/) — marking our lab's first collaboration with [ODU](https://www.odu.edu/)!
 - [Oct 2025] Will **mentor** three Ph.D. students at [SC26](https://sc26.supercomputing.org/students/mentor-protege-matching/).
 - [Aug 2026] Our poster, **A Side-Channel Methodology for DL Model Recovery Using Power Traces**, has been accepted for presentation at the [International Conference for High Performance Computing, Networking, Storage, and Analysis (SC26)](https://sc26.supercomputing.org/).
 <!--- Our poster, **A Side-Channel Methodology for DL Model Recovery Using Power Traces**, has been accepted for presentation at the [TACC Symposium for Texas Researchers (TACCSTER 2026)](https://tacc.utexas.edu/taccster/2026/) organized by the Texas Advanced Computing Center (TACC).--> 
