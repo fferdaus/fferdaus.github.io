@@ -132,6 +132,32 @@ redirect_from:
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
+  <div style="flex-shrink: 0; width: 240px; text-align: center;">
+    <img src="{{ site.baseurl }}/images/dummy-image-square.jpg"
+         style="width: 240px; height: 240px; object-fit: cover; border-radius: 8px; display: block;"
+         alt="Mahbuba Moumita"/>
+    <p style="font-size: 18px; color: var(--global-text-color-light); margin-top: 8px; margin-bottom: 6px;">
+      Mahbuba Moumita<br>
+      <span style="font-size: 16px;">(Fall 2026 ~ present)</span>
+    </p>
+    <!-- Social links -->
+    <div style="display: flex; justify-content: center; gap: 12px; margin-top: 6px;">
+      <a href="https://scholar.google.com/citations?user=_Fj5CCcAAAAJ&hl=en" target="_blank" title="Google Scholar"
+         style="color: var(--global-text-color-light); text-decoration: none; font-size: 13px;">
+        <i class="ai ai-google-scholar"></i> Scholar
+      </a>
+      <a href="https://www.linkedin.com/in/mahbuba-moumita/" target="_blank" title="LinkedIn"
+         style="color: var(--global-text-color-light); text-decoration: none; font-size: 13px;">
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+    </div>
+  </div>
+  <div style="flex: 1; font-size: 1rem; line-height: 1.6; color: var(--global-text-color);">
+    Mahbuba Moumita is a doctoral student in the Department of Industrial and Systems Engineering at Lamar University, USA, and a member of the High-Performance Energy-Efficient Secure Computer Architecture (HESCA) Research Lab. She earned her Bachelor of Science in Mathematics from the University of Dhaka, Bangladesh, and her Master of Science in Computational and Quantitative Methods (Data Science track) from Lamar University, USA. She is working on her project applying deep learning architectures, and statistical modeling to Controlled Environment and Sustainable Solar Energy System as a Graduate Research Assistant at Center for Resiliency since 2025. Her research focuses on machine learning, deep learning architectures, operations research, and advanced AI systems, with applications in data science, intelligent forecasting, and multi-agent systems.
+  </div>
+</div>
+
 
 ## MS Students
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 32px;">
